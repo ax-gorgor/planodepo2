@@ -339,7 +339,7 @@ else {
       a120.innerHTML = getin;
      };
 
-if (   getin!="1320" & getin!="2522" & getin!="1432" & getin!="1132" )
+if (  getin!="2522" & getin!="1432" & getin!="1132" )
  
 { }
                  
@@ -353,7 +353,7 @@ else {
       a130.innerHTML = getin;
      };
 
-if (  getin!="1320" & getin!="2522" & getin!="1432" & getin!="1132" & getin!="1103" & getin!="1122"
+if (  getin!="2522" & getin!="1432" & getin!="1132" & getin!="1103" & getin!="1122"
 & getin!="1671" & getin!="1005" & getin!="1004"  )
  
 { }
@@ -440,7 +440,7 @@ else {
 
 // ESTANTERIA OFICINA 2 PRINCIPIO //
 
-if (getin!="2015" )
+if (getin!="2015" & getin!="1320" )
  
 { }
                                    
