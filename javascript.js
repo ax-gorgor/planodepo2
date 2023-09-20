@@ -194,22 +194,22 @@ if (  getin!="1538" & getin!="1431" & getin!="1106" & getin!="1109" & getin!="14
      };
 
 
-if (  getin!="1548" & getin!="1550" & getin!="2234"
+/*if (  getin!="1548" & getin!="1550" & getin!="2234"
       & getin!="2231" &   getin!="1327" & getin!="2244"
       & getin!="2228" & getin!="2041" & getin!="2230" & getin!="2514" & getin!="1057"
       & getin!="2043" & getin!="2010" & getin!="1538" & getin!="1106")
  
 { }
             
-else { /*
+else {  
       a12.style.background= 'white';
       a12.style.border= '1px solid red';
-      a12.innerHTML = getin;*/
+      a12.innerHTML = getin; 
       a13.style.marginLeft= '-30px';
       a13.style.color= 'red';
       a13.style.fontSize= '24px';
       a13.innerHTML = getin;
-     };
+     };*/
 
 if (  getin!="2228" & getin!="1327" & getin!="1057" & getin!="2533" & 
       getin!="1683" & getin!="1282" & getin!="2005" & getin!="2514" 
