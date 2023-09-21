@@ -179,6 +179,7 @@ else {
       };
 
 if (  getin!="1538" & getin!="1431" & getin!="1106" & getin!="1109" & getin!="1450" & getin!="2020"
+      & getin!="1788"
        )
  
 { }
@@ -274,7 +275,7 @@ else {
 
 //// ESTANTERIA DERECHA BAJA PRINCIPIO //
 if ( getin!="2508" & getin!="1782" & getin!="1712"  & 
-getin!="1306" & getin!="1155" & getin!="1311" & getin!="1010" & getin!="1111"/* & getin!="1782"*/)
+getin!="1306" & getin!="1155" & getin!="1311" & getin!="1010" & getin!="1111" & getin!="1321")
 
 { }
                      
@@ -324,7 +325,7 @@ if (  getin!="2515" & getin!="2032" & getin!="1440" & getin!="1442" )
 
 
 if (  getin!="2541" & getin!="850" & getin!="851" &  
-      getin!="2016" & getin!="1662" & getin!="2007" & getin!="1788" & getin!="2017" & getin!="1322"
+      getin!="2016" & getin!="1662" & getin!="2007" & getin!="2017" & getin!="1322"
       & getin!="2021" & getin!="1082" & getin!="1324" & getin!="1490" & getin!="1089" & getin!="2019"
       & getin!="1088")
  
@@ -469,7 +470,7 @@ else {
 
 // ESTANTERIA OFICINA 3 PRINCIPIO //
 
-        if ( getin!="1001" & getin!="1321")
+        if ( getin!="1001" )
  
         { }
                                            
