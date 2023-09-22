@@ -326,7 +326,7 @@ if (  getin!="2515" & getin!="2032" & getin!="1440" & getin!="1442" )
 
 if (  getin!="2541" & getin!="850" & getin!="851" &  
       getin!="2016" & getin!="1662" & getin!="2007" & getin!="2017" & getin!="1322"
-      & getin!="2021" & getin!="1082" & getin!="1324" & getin!="1490" & getin!="1089" & getin!="2019"
+      & getin!="1082" & getin!="1324" & getin!="1490" & getin!="1089" & getin!="2019"
       & getin!="1088" & getin!="1798")
  
 { }
@@ -371,7 +371,7 @@ else {
 if (  getin!="1005" & getin!="1122" & getin!="1135"
          &  getin!="1700" & getin!="2402" &  getin!="1004" & getin!="2403" &
       getin!="1012" & getin!="3002" &  getin!="2011" &  getin!="2510" & getin!="1710" & 
-      getin!="2014" & getin!="1086" & getin!="2022" & getin!="1203")
+      getin!="2014" & getin!="2022" & getin!="1203" & getin!="2021")
  
 { }
                            
@@ -383,7 +383,7 @@ else {
       a150.innerHTML = getin;
     };
 
-    if (  getin!="1091" &  getin!="2402" & getin!="2022" &  getin!="1710" & getin!="1086" & getin!="1144" )
+    if (  getin!="1091" &  getin!="2402" & getin!="2022" &  getin!="1710" & getin!="1144" )
  
     { }
                                
