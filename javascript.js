@@ -340,7 +340,7 @@ else {
       a120.innerHTML = getin;
      };
 
-if (  getin!="2522" & getin!="1432" & getin!="1132" )
+if (  getin!="2522" & getin!="1432" & getin!="1132" & getin!="3309" )
  
 { }
                  
