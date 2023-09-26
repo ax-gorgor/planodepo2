@@ -324,10 +324,10 @@ if (  getin!="2515" & getin!="2032" & getin!="1440" & getin!="1442" )
      };
 
 
-if (  getin!="2541" & getin!="850" & getin!="851" &  
+if (  getin!="2541" &  
       getin!="2016" & getin!="1662" & getin!="2007" & getin!="2017" & getin!="1322"
       & getin!="1082" & getin!="1324" & getin!="1490" & getin!="1089" & getin!="2019"
-      & getin!="1088" & getin!="1798")
+      & getin!="1088" & getin!="1798" & getin!="3309")
  
 { }
             
@@ -340,7 +340,7 @@ else {
       a120.innerHTML = getin;
      };
 
-if (  getin!="2522" & getin!="1432" & getin!="1132" & getin!="3309" )
+if (  getin!="2522" & getin!="1432" & getin!="1132" & getin!="850" & getin!="851" )
  
 { }
                  
