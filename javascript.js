@@ -295,9 +295,9 @@ else {
 // ESTANTERIA IZQUIERDA PRINCIPIO //
 
 
-if (  getin!="3002" & getin!="2506" & getin!="2545" & getin!="1157"
+if (   getin!="2506" & getin!="2545" & getin!="1157"
       & getin!="2510" & getin!="2511" & getin!="1494" & getin!="1324"
-      & getin!="1714" )
+      & getin!="1714" & getin!="1122" )
  
 { }
       
@@ -354,8 +354,8 @@ else {
       a130.innerHTML = getin;
      };
 
-if (  getin!="2522" & getin!="1432" & getin!="1132" & getin!="1103" & getin!="1122"
-& getin!="1671" & getin!="1005" & getin!="1004"  )
+if (  getin!="2522" & getin!="1432" & getin!="1132" & getin!="1103"  
+      & getin!="1671" & getin!="1005" & getin!="1004" & getin!="1314")
  
 { }
                       
@@ -368,9 +368,9 @@ else {
       a140.innerHTML = getin;
      };
 
-if (  getin!="1005" & getin!="1122" & getin!="1135"
+if (  getin!="1005" & getin!="1135"
          &  getin!="1700" & getin!="2402" &  getin!="1004" & getin!="2403" &
-      getin!="1012" & getin!="3002" &  getin!="2011" &  getin!="2510" & getin!="1710" & 
+      getin!="1012" &  getin!="2011" &  getin!="2510" & getin!="1710" & 
       getin!="2014" & getin!="2022" & getin!="1203" & getin!="2021")
  
 { }
@@ -453,7 +453,7 @@ else {
       c10.innerHTML = getin;
     };
 
-    if ( getin!="1086" & getin!="2412" & getin!="1314")
+    if ( getin!="3002" & getin!="1086" & getin!="2412")
  
     { }
                                        
