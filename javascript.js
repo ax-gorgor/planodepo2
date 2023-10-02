@@ -245,7 +245,7 @@ else {
      };
 
 if (   getin!="2209" & getin!="1085" & getin!="1323" & getin!="2508"
-        & getin!="1129" & getin!="1310" & getin!="1137")
+        & getin!="1129" & getin!="1310" & getin!="1137" & getin!="1304")
  
          { }
                            
