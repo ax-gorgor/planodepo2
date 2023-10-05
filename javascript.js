@@ -91,7 +91,7 @@ else {
 // MESA PRINCIPAL DERECHA 3 PRINCIPIO //
 
 
-if (   getin!="1786" & getin!="1201" & getin!="1309" )  
+if (   getin!="1786" & getin!="1201" & getin!="1309" & getin!="3309" & getin!="3431" )  
  
       { }
       
@@ -214,7 +214,7 @@ else {
 
 if (  getin!="2228" & getin!="1327" & getin!="1057" & getin!="2533" & 
       getin!="1683" & getin!="1282" & getin!="2005" & getin!="2514" 
-      & getin!="3309" & getin!="3155" & getin!="1326"
+        & getin!="3155" & getin!="1326"
       )
  
 { }
@@ -328,7 +328,7 @@ if (  getin!="2515" & getin!="2032" & getin!="1440" & getin!="1442" )
 if (  getin!="2541" &  
       getin!="2016" & getin!="1662" & getin!="2007" & getin!="2017" & getin!="1322"
       & getin!="1082" & getin!="1324" & getin!="1490" & getin!="1089" & getin!="2019"
-      & getin!="1088" & getin!="1798" & getin!="3309" & getin!="3431")
+      & getin!="1088" & getin!="1798" )
  
 { }
             
