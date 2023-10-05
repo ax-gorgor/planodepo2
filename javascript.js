@@ -48,7 +48,7 @@ var getin = prompt ('Poné el artículo')
 // MESA PRINCIPAL DERECHA 1 PRINCIPIO //
 
 
-if (getin!="1151" & getin!="2542" & getin!="1308")  
+if (getin!="1151" & getin!="2542" & getin!="1308" & getin!="3014")  
 
 { }
 
@@ -69,7 +69,7 @@ else { /*a1.style.background= 'white';
 // MESA PRINCIPAL DERECHA 2 PRINCIPIO //
 
 
- if (  getin!="1550" & getin!="2521" & getin!="1312") //mesaPrincipalDerecha2
+ if (  getin!="1550" & getin!="2521" & getin!="1312" & getin!="3011") //mesaPrincipalDerecha2
  
 { }
 
@@ -328,7 +328,7 @@ if (  getin!="2515" & getin!="2032" & getin!="1440" & getin!="1442" & getin!="14
 if (  getin!="2541" &  
       getin!="2016" & getin!="1662" & getin!="2007" & getin!="2017" & getin!="1322"
       & getin!="1082" & getin!="1324" & getin!="1490" & getin!="1089" & getin!="2019"
-      & getin!="1088" & getin!="1798" & getin!="3011" & getin!="3014" )
+      & getin!="1088" & getin!="1798")
  
 { }
             
