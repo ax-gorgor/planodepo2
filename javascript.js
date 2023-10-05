@@ -369,9 +369,9 @@ else {
       a140.innerHTML = getin;
      };
 
-if (  getin!="1005" &  getin!="1700" & getin!="2402" &  getin!="1004" & getin!="2403" &
+if (  getin!="1005" &  getin!="1700" & getin!="2402" &  getin!="1004" & 
       getin!="1012" &  getin!="2011" & getin!="1710" & 
-      getin!="2014" & getin!="2022" & getin!="1203" & getin!="2021")
+      getin!="2014" & getin!="2022" & getin!="1203" & getin!="2021" )
  
 { }
                            
@@ -383,7 +383,7 @@ else {
       a150.innerHTML = getin;
     };
 
-    if (  getin!="1091" &  getin!="2402" & getin!="2022" &  getin!="1710" & getin!="1144" )
+    if (  getin!="1091" &  getin!="2402" & getin!="2022" &  getin!="1710" & getin!="1144" & getin!="2403" )
  
     { }
                                
