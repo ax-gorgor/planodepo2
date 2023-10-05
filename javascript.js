@@ -48,7 +48,7 @@ var getin = prompt ('Poné el artículo')
 // MESA PRINCIPAL DERECHA 1 PRINCIPIO //
 
 
-if (getin!="1421" & getin!="1151" & getin!="2542" & getin!="1308")  
+if (getin!="1151" & getin!="2542" & getin!="1308")  
 
 { }
 
@@ -311,7 +311,7 @@ else {
       a100.innerHTML = getin;
       };
 
-if (  getin!="2515" & getin!="2032" & getin!="1440" & getin!="1442" )
+if (  getin!="2515" & getin!="2032" & getin!="1440" & getin!="1442" & getin!="1421")
  
 { }
             
