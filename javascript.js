@@ -298,7 +298,7 @@ else {
 
 if (   getin!="2506" & getin!="2545" & getin!="1157"
       & getin!="2510" & getin!="2511" & getin!="1494" & getin!="1324"
-      & getin!="1714" & getin!="1122" & getin!="2234"  )
+      & getin!="1714" & getin!="1122" & getin!="2234" & getin!="2410")
  
 { }
       
