@@ -179,7 +179,7 @@ else {
       };
 
 if (  getin!="1538" & getin!="1431" & getin!="1106" & getin!="1109" & getin!="1450" & getin!="2020"
-      & getin!="1788" & getin!="3539"
+      & getin!="1788" & getin!="3539" & getin!="3057"
        )
  
 { }
