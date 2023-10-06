@@ -212,9 +212,9 @@ else {
       a13.innerHTML = getin;
      };*/
 
-if (  getin!="2228" & getin!="1327" & getin!="1057" & getin!="2533" & 
+if (  getin!="2228"  & getin!="1057" & getin!="2533" & 
       getin!="1683" & getin!="1282" & getin!="2005" & getin!="2514" 
-        & getin!="3155" & getin!="1326"
+        & getin!="3155" & getin!="1326" & getin!="1320" 
       )
  
 { }
@@ -441,7 +441,7 @@ else {
 
 // ESTANTERIA OFICINA 2 PRINCIPIO //
 
-if (getin!="2015" & getin!="1320" )
+if (getin!="2015" & getin!="1327" )
  
 { }
                                    
