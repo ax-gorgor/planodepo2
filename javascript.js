@@ -141,7 +141,7 @@ else { /*b2.style.background= 'white';
       }
 
 
-if (getin!="2538" & getin!="1675" & getin!="2546" & getin!="2549" & getin!="2509" & getin!="1135")  
+if (getin!="1128" & getin!="1675" & getin!="2546" & getin!="2549" & getin!="2509" & getin!="1135")  
 
 { }
       
@@ -231,7 +231,7 @@ else {
 
 if ( getin!="1441" & getin!="1498" & getin!="1328" & getin!="1173"
 & getin!="2223" & getin!="1462" & getin!="2512" & getin!="1422"
-& getin!="2401" & getin!="1325" & getin!="1865")
+& getin!="2401" & getin!="1325" & getin!="1865" & getin!="2538" & getin!="2508")
  
 { }
                       
@@ -245,7 +245,7 @@ else {
       a14.innerHTML = getin;
      };
 
-if (   getin!="2209" & getin!="1085" & getin!="1323" & getin!="2508"
+if (   getin!="2209" & getin!="1085" & getin!="1323"
         & getin!="1129" & getin!="1310" & getin!="1137" & getin!="1304")
  
          { }
@@ -275,7 +275,7 @@ else {
 
 
 //// ESTANTERIA DERECHA BAJA PRINCIPIO //
-if ( getin!="2508" & getin!="1782" & getin!="1712"  & 
+if (  getin!="1782" & getin!="1712"  & 
 getin!="1306" & getin!="1155" & getin!="1311" & getin!="1010" & getin!="1111" & getin!="1321")
 
 { }
