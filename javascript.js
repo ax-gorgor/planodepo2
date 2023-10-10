@@ -128,7 +128,7 @@ else {/* b1.style.background= 'white';
 
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
-if (getin!="2540" & getin!="1426" & getin!="1305" /* & getin!="1552"*/ )  
+if (getin!="2540" & getin!="2538" & getin!="1305" /* & getin!="1552"*/ )  
 
 { }
 
@@ -231,7 +231,7 @@ else {
 
 if ( getin!="1441" & getin!="1498" & getin!="1328" & getin!="1173"
 & getin!="2223" & getin!="1462" & getin!="2512" & getin!="1422"
-& getin!="2401" & getin!="1325" & getin!="1865" & getin!="2538" & getin!="2508")
+& getin!="2401" & getin!="1325" & getin!="1865" & getin!="1426" & getin!="2508")
  
 { }
                       
