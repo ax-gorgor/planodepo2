@@ -69,7 +69,7 @@ else { /*a1.style.background= 'white';
 // MESA PRINCIPAL DERECHA 2 PRINCIPIO //
 
 
- if (  getin!="1550" & getin!="2521" & getin!="1312" & getin!="3011") //mesaPrincipalDerecha2
+ if (  getin!="1550" & getin!="2521" & getin!="1312" & getin!="3011" & getin!="1422") //mesaPrincipalDerecha2
  
 { }
 
@@ -230,7 +230,7 @@ else {
      };
 
 if ( getin!="1441" & getin!="1498" & getin!="1328" & getin!="1173"
-& getin!="2223" & getin!="1462" & getin!="2512" & getin!="1422"
+& getin!="2223" & getin!="1462" & getin!="2512" 
 & getin!="2401" & getin!="1325" & getin!="1865" & getin!="1426" & getin!="2508")
  
 { }
