@@ -214,7 +214,7 @@ else {
 
 if (  getin!="2228"  & getin!="1057" & getin!="2533" & 
       getin!="1683" & getin!="1282" & getin!="2005" & getin!="2514" 
-        & getin!="3155" & getin!="1326" & getin!="1320" & getin!="1173"
+        & getin!="3155" & getin!="1326" & getin!="1320"  
       )
  
 { }
@@ -223,6 +223,21 @@ else {
       /*a13.style.background= 'white';
       a13.style.border= '1px solid red';
       a13.innerHTML = getin;*/
+      a13.style.marginLeft= '-30px';
+      a13.style.color= 'red';
+      a13.style.fontSize= '24px';
+      a13.innerHTML = getin;
+     };
+
+     if (  getin!="1173"
+      )
+ 
+{ }
+                 
+else { 
+      /*a13.style.background= 'white';
+      a13.style.border= '1px solid red';*/
+        alert('ARRIBA DE TODO'); 
       a13.style.marginLeft= '-30px';
       a13.style.color= 'red';
       a13.style.fontSize= '24px';
