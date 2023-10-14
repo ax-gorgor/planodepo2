@@ -48,18 +48,33 @@ var getin = prompt ('Poné el artículo')
 // MESA PRINCIPAL DERECHA 1 PRINCIPIO //
 
 
-if (getin!="1151" & getin!="2542" & getin!="1308" & getin!="3014")  
+if (getin!="1308")  
 
 { }
 
-else { /*a1.style.background= 'white';
-       a1.style.border= '1px solid red';
-       a1.innerHTML = getin;*/
-       a1.style.marginLeft= '-10px';
-       a1.style.color= 'red';
-       a1.style.fontSize= '24px';
-       a1.innerHTML = getin;
-};
+else {  a1.style.marginLeft= '10px';
+        a1.style.color= 'black';
+        a1.style.fontSize= '24px';
+        a1.innerHTML = getin;
+        a1.style.background = 'white';
+        a1.style.transform = 'scale(0.8)';
+        a1.style.transition = '1s'
+     };
+
+if (getin!="1151" & getin!="2542" & getin!="3014")  
+ 
+{ }
+
+else { 
+ alert('ESTANTERIA ARRIBA DE LA MESA'); 
+ a1.style.marginLeft= '-10px';
+ a1.style.color= 'white';
+ a1.style.fontSize= '24px';
+ a1.innerHTML = getin;
+ a1.style.background = 'black';
+ a1.style.transform = 'scale(1.2)';
+ a1.style.transition = '1s'
+  };
         
 
       
@@ -69,19 +84,34 @@ else { /*a1.style.background= 'white';
 // MESA PRINCIPAL DERECHA 2 PRINCIPIO //
 
 
- if (  getin!="1550" & getin!="2521" & getin!="1312" & getin!="3011" & getin!="1422") //mesaPrincipalDerecha2
+ if ( getin!="2521" & getin!="1312") //mesaPrincipalDerecha2
  
 { }
 
 else { 
-      /*a2.style.background= 'white';
-      a2.style.border= '1px solid red';
-      a2.innerHTML = getin;*/
-      a2.style.marginLeft= '-10px';
-       a2.style.color= 'red';
-       a2.style.fontSize= '24px';
-       a2.innerHTML = getin;
+    a2.style.marginLeft= '10px';
+    a2.style.color= 'black';
+    a2.style.fontSize= '24px';
+    a2.innerHTML = getin;
+    a2.style.background = 'white';
+    a2.style.transform = 'scale(0.8)';
+    a2.style.transition = '1s'
      };
+
+     if (getin!="1550" & getin!="3011" & getin!="1422")  
+ 
+     { }
+     
+else { 
+      alert('ESTANTERIA ARRIBA DE LA MESA'); 
+      a2.style.marginLeft= '-10px';
+      a2.style.color= 'white';
+      a2.style.fontSize= '24px';
+      a2.innerHTML = getin;
+      a2.style.background = 'black';
+      a2.style.transform = 'scale(1.2)';
+      a2.style.transition = '1s'
+       };
       
 
 // MESA PRINCIPAL DERECHA 2 FIN //
@@ -91,37 +121,74 @@ else {
 // MESA PRINCIPAL DERECHA 3 PRINCIPIO //
 
 
-if (   getin!="1786" & getin!="1201" & getin!="1309" & getin!="3309" & getin!="3431" )  
+if (  getin!="1309" )  
  
       { }
       
 else { 
-      /*a3.style.background= 'white';
-      a3.style.border= '1px solid red';
-       a3.innerHTML = getin;*/
-       a3.style.marginLeft= '-10px';
-       a3.style.color= 'red';
+       
+       a3.style.marginLeft= '10px';
+       a3.style.color= 'black';
        a3.style.fontSize= '24px';
        a3.innerHTML = getin;
+       a3.style.background = 'white';
+       a3.style.transform = 'scale(0.8)';
+       a3.style.transition = '1s'
+        
        
       };
+
+      if (   getin!="1786" & getin!="1201" & getin!="3309" & getin!="3431" )  
+ 
+      { }
+      
+else { 
+       alert('ESTANTERIA ARRIBA DE LA MESA'); 
+       a3.style.marginLeft= '-10px';
+       a3.style.color= 'white';
+       a3.style.fontSize= '24px';
+       a3.innerHTML = getin;
+       a3.style.background = 'black';
+       a3.style.transform = 'scale(1.2)';
+       a3.style.transition = '1s'
+        };
+
+
+
 
 // MESA PRINCIPAL DERECHA 3 FIN //
 
 
 // MESA PRINCIPAL IZQUIERDA 1 PRINCIPIO //
 
-if (getin!="2535" & getin!="1104" & getin!="2226" & getin!="2536" )  
+if (getin!="2226" & getin!="2536" )  
 
 { }
 
-else {/* b1.style.background= 'white';
-       b1.style.border= '1px solid red';
-       b1.innerHTML = getin;*/
-       b1.innerHTML = getin;
+else { b1.style.marginLeft= '-10px';
+       b1.style.color= 'black';
        b1.style.fontSize= '24px';
-       b1.style.color= 'red';
+       b1.innerHTML = getin;
+       b1.style.background = 'white';
+       b1.style.transform = 'scale(0.8)';
+       b1.style.transition = '1s'
         }
+
+       
+
+        if (getin!="2535" & getin!="1104")  
+
+        { }
+        
+        else { alert('ESTANTERIA ARRIBA DE LA MESA'); 
+               b1.style.marginLeft= '10px';
+               b1.style.color= 'white';
+               b1.style.fontSize= '24px';
+               b1.innerHTML = getin;
+               b1.style.background = 'black';
+               b1.style.transform = 'scale(1.2)';
+               b1.style.transition = '1s'
+                }
 
  
 // MESA PRINCIPAL IZQUIERDA 1 FIN //
@@ -132,27 +199,58 @@ if (getin!="2540" & getin!="2538" & getin!="1305" /* & getin!="1552"*/ )
 
 { }
 
-else { /*b2.style.background= 'white';
-       b2.style.border= '1px solid red';
-       b2.innerHTML = getin;*/
-       b2.innerHTML = getin;
-       b2.style.fontSize= '24px';
-       b2.style.color= 'red';
+else {b2.style.marginLeft= '-10px';
+      b2.style.color= 'black';
+      b2.style.fontSize= '24px';
+      b2.innerHTML = getin;
+      b2.style.background = 'white';
+      b2.style.transform = 'scale(0.8)';
+      b2.style.transition = '1s'
       }
 
+      if (getin!="2535" & getin!="1104")  
 
-if (getin!="1128" & getin!="1675" & getin!="2546" & getin!="2549" & getin!="2509" & getin!="1135")  
+      { }
+      
+      else {  
+             b2.style.marginLeft= '10px';
+             b2.style.color= 'white';
+             b2.style.fontSize= '24px';
+             b2.innerHTML = getin;
+             b2.style.background = 'black';
+             b2.style.transform = 'scale(1.2)';
+             b2.style.transition = '1s'
+              }  
+
+if ( getin!="2509")  
+
+{ }
+                    
+else { b3.style.marginLeft= '-10px';
+        b3.style.color= 'black';
+        b3.style.fontSize= '24px';
+        b3.innerHTML = getin;
+        b3.style.background = 'white';
+        b3.style.transform = 'scale(0.8)';
+        b3.style.transition = '1s'
+    }
+              
+
+
+if (getin!="1128" & getin!="1675" & getin!="2546" & getin!="2549" & getin!="1135")  
 
 { }
       
-else { /*b3.style.background= 'white';
-       b3.style.border= '1px solid red';
-       b3.innerHTML = getin;*/
+else { alert('ESTANTERIA ARRIBA DE LA MESA'); 
+       b3.style.marginLeft= '10px';
+       b3.style.color= 'white';
+       b3.style.fontSize= '24px';
        b3.innerHTML = getin;
-      b3.style.fontSize= '24px';
-      b3.style.color= 'red';
-      b3.innerHTML = getin;
+       b3.style.background = 'black';
+       b3.style.transform = 'scale(1.2)';
+       b3.style.transition = '1s'
       }
+
 
  
 // MESA PRINCIPAL IZQUIERDA 2 FIN //
@@ -229,20 +327,19 @@ else {
       a13.innerHTML = getin;
      };
 
-     if (  getin!="1173"
-      )
+     if (getin!="1173")
  
-{ }
-                 
-else { 
-      /*a13.style.background= 'white';
-      a13.style.border= '1px solid red';*/
-        alert('ARRIBA DE TODO'); 
-      a13.style.marginLeft= '-30px';
-      a13.style.color= 'red';
-      a13.style.fontSize= '24px';
-      a13.innerHTML = getin;
-     };
+     { }
+                                
+     else {  alert('ARRIBA DE TODO'); 
+             a13.style.marginLeft= '-40px';
+             a13.style.color= 'yellow';
+             a13.style.fontSize= '24px';
+             a13.innerHTML = getin;
+             
+             a13.style.transform = 'rotate(90deg) scale(1.2)';
+             a13.style.transition = '0.5s'
+         };
 
 if ( getin!="1441" & getin!="1498" & getin!="1328" 
 & getin!="2223" & getin!="1462" & getin!="2512" 
@@ -260,7 +357,23 @@ else {
       a14.innerHTML = getin;
      };
 
-if (   getin!="2209" & getin!="1085" & getin!="1323"
+     if (getin!="2209")
+ 
+     { }
+                                
+     else {  alert('ARRIBA DE TODO'); 
+             a14.style.marginLeft= '-40px';
+             a14.style.color= 'yellow';
+             a14.style.fontSize= '24px';
+             a14.innerHTML = getin;
+             
+             a14.style.transform = 'rotate(90deg) scale(1.2)';
+             a14.style.transition = '0.5s'
+         };
+
+     
+
+if (    getin!="1085" & getin!="1323"
         & getin!="1129" & getin!="1310" & getin!="1137" & getin!="1304")
  
          { }
@@ -274,17 +387,9 @@ else {
       a15.style.fontSize= '24px';
       a15.innerHTML = getin;
     };
-/*
-    if ( getin!="1310" & getin!="1137" & getin!="1155" & getin!="1304" & getin!="1159" & getin!="1008" & 
-       getin!="1111" & getin!="1675" & getin!="1012" & getin!="1499" & getin!="1082" & getin!="1782")
  
-    { }
-                               
-    else { 
-         a16.style.background= 'red';
-        a16.style.border= '1px solid rgb(0, 0, 0)';
-        };
-*/
+    
+ 
 
 //// ESTANTERIA DERECHA FIN //
 
