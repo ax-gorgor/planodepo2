@@ -333,8 +333,8 @@ else {
                                 
      else {  alert('ARRIBA DE TODO'); 
              a13.style.marginLeft= '-40px';
-             a13.style.color= 'yellow';
-             a13.style.fontSize= '24px';
+             a13.style.color= 'red';
+             a13.style.fontSize= '36px';
              a13.innerHTML = getin;
              
              a13.style.transform = 'rotate(90deg) scale(1.2)';
@@ -363,8 +363,8 @@ else {
                                 
      else {  alert('ARRIBA DE TODO'); 
              a14.style.marginLeft= '-40px';
-             a14.style.color= 'yellow';
-             a14.style.fontSize= '24px';
+             a14.style.color= 'red';
+             a14.style.fontSize= '36px';
              a14.innerHTML = getin;
              
              a14.style.transform = 'rotate(90deg) scale(1.2)';
