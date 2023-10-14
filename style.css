@@ -1275,10 +1275,14 @@
     grid-column-end: 6;
     grid-row-start: 3;
     grid-row-end: 4;
-    -webkit-animation:spin 24s linear infinite;
-    -moz-animation:spin 24s linear infinite;
-    animation:spin 24s linear infinite;
+     
+  
+     
+    -webkit-animation:spin 8s linear infinite;
+    -moz-animation:spin 8s linear infinite;
+    animation:spin 8s linear infinite;
 }
-@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
-@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg);  } }
-@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+@-moz-keyframes spin { 10% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 10% { -webkit-transform: rotate(360deg);  } }
+@keyframes spin { 10% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+ 
