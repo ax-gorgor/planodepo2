@@ -98,7 +98,7 @@ else {
     a2.style.transition = '1s'
      };
 
-     if (getin!="1550" & getin!="3011" & getin!="1422")  
+     if (getin!="1550" & getin!="3011" & getin!="1422" & getin!="1173")  
  
      { }
      
@@ -327,7 +327,7 @@ else {
       a13.innerHTML = getin;
      };
 
-     if (getin!="1173")
+   /*  if (getin!="1173")
  
      { }
                                 
@@ -339,7 +339,7 @@ else {
              
              a13.style.transform = 'rotate(90deg) scale(1.2)';
              a13.style.transition = '0.5s'
-         };
+         };*/
 
 if ( getin!="1441" & getin!="1498" & getin!="1328" 
 & getin!="2223" & getin!="1462" & getin!="2512" 
