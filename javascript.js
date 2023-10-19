@@ -431,7 +431,8 @@ else {
       a100.innerHTML = getin;
       };
 
-if (  getin!="2515" & getin!="2032" & getin!="1440" & getin!="1442" & getin!="1421")
+if (  getin!="2515" & getin!="2032" & getin!="1440" & getin!="1442" & getin!="1421"
+& getin!="1708")
  
 { }
             
