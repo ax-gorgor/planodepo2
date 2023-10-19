@@ -491,7 +491,7 @@ else {
 
 if (  getin!="1005" &  getin!="1700" & getin!="2402" &  getin!="1004" & 
       getin!="1012" &  getin!="2011" & getin!="1710" & 
-      getin!="2014" & getin!="2022" & getin!="1203" & getin!="2021" )
+      getin!="2014" & getin!="2022" & getin!="1203" & getin!="2021" & getin!="1436" )
  
 { }
                            
