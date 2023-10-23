@@ -195,7 +195,21 @@ else { b1.style.marginLeft= '-10px';
 
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
-if (getin!="2540" & getin!="2538" & getin!="1305" /* & getin!="1552"*/ )  
+if (  getin!="2540")  
+
+{ }
+
+else { alert('ESTANTERIA ARRIBA DE LA MESA'); 
+       b2.style.marginLeft= '10px';
+       b2.style.color= 'white';
+       b2.style.fontSize= '24px';
+       b2.innerHTML = getin;
+       b2.style.background = 'black';
+       b2.style.transform = 'scale(1.2)';
+       b2.style.transition = '1s'
+        }
+
+if ( getin!="2538" & getin!="1305" /* & getin!="1552"*/ )  
 
 { }
 
@@ -261,7 +275,7 @@ else { alert('ESTANTERIA ARRIBA DE LA MESA');
 //// ESTANTERIA DERECHA PRINCIPIO //
 
 if (  getin!="1143" & getin!="1433" & getin!="2051" &
-      getin!="2309" & getin!="2041" & getin!="1538" 
+      getin!="2309" &  getin!="1538" 
     )
  
 { }
@@ -278,6 +292,7 @@ else {
 
 if (  getin!="1548" & getin!="1431" & getin!="1106" &  getin!="1450" & getin!="2020"
       & getin!="1788" & getin!="3539" & getin!="3057" & getin!="2230" & getin!="1151"
+      & getin!="1324" & getin!="1109"
        )
  
 { }
@@ -312,7 +327,7 @@ else {
 
 if (  getin!="2228"  & getin!="1057" & getin!="2533" & 
       getin!="1683" & getin!="1282" & getin!="2005" & getin!="2514" 
-        & getin!="3155" & getin!="1326" & getin!="1320" & getin!="1109"  
+        & getin!="3155" & getin!="1326" & getin!="1320" 
       )
  
 { }
@@ -416,8 +431,8 @@ else {
 // ESTANTERIA IZQUIERDA PRINCIPIO //
 
 
-if (   getin!="2506" & getin!="2545" & getin!="1157"
-      & getin!="2510" & getin!="2511" & getin!="1494" & getin!="1324"
+if (  getin!="2545" & getin!="1157" & getin!="2041"
+      & getin!="2510" & getin!="2511" & getin!="1494" 
       & getin!="1714" & getin!="1122" & getin!="2234" & getin!="2410")
  
 { }
@@ -448,8 +463,8 @@ if (  getin!="2515" & getin!="2032" & getin!="1440" & getin!="1442" & getin!="14
 
 if (  getin!="2541" &  getin!="1786" &
       getin!="2016" & getin!="1662" & getin!="2007" & getin!="2017" & getin!="1322"
-      & getin!="1082" & getin!="1324" & getin!="1490" & getin!="1089" & getin!="2019"
-       & getin!="1798")
+      & getin!="1082" & getin!="1490" & getin!="1089" & getin!="2019"
+       & getin!="1798" & getin!="3111")
  
 { }
             
@@ -517,7 +532,7 @@ else {
 // ESTANTERIA IZQUIERDA FIN //
 
 
-if (  getin!="1433" & getin!="1133" & getin!="1159" & getin!="1340")
+if (  getin!="1433" & getin!="1133" & getin!="1159" & getin!="1340" & getin!="2506")
  
 { }
                                    
