@@ -327,7 +327,7 @@ else {
 
 if (  getin!="2228"  & getin!="1057" & getin!="2533" & 
       getin!="1683" & getin!="1282" & getin!="2005" & getin!="2514" 
-        & getin!="3155" & getin!="1326" & getin!="1320" & getin!="1432"  
+        & getin!="3155" & getin!="1326" & getin!="1320"  
       )
  
 { }
@@ -342,6 +342,19 @@ else {
       a13.innerHTML = getin;
      };
 
+     if (getin!="1432")  
+
+{ }
+      
+else { alert('ESTANTERIA ARRIBA'); 
+       a13.style.marginLeft= '10px';
+       a13.style.color= 'white';
+       a13.style.fontSize= '24px';
+       a13.innerHTML = getin;
+       a13.style.background = 'black';
+       a13.style.transform = 'scale(1.2)';
+       a13.style.transition = '1s'
+      }
    /*  if (getin!="1173")
  
      { }
@@ -411,7 +424,8 @@ else {
 
 //// ESTANTERIA DERECHA BAJA PRINCIPIO //
 if (  getin!="1782" & getin!="1712"  & 
-getin!="1306" & getin!="1155" & getin!="1311" & getin!="1010" & getin!="1111" & getin!="1321")
+getin!="1306" & getin!="1155" & getin!="1311" & getin!="1010"
+ & getin!="1111" & getin!="1321" & getin!="2010")
 
 { }
                      
