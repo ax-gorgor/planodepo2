@@ -424,7 +424,7 @@ else {
 
 //// ESTANTERIA DERECHA BAJA PRINCIPIO //
 if (  getin!="1782" & getin!="1712"  & 
-getin!="1306" & getin!="1155" & getin!="1311" & getin!="1010"
+getin!="1306" & getin!="1155" & getin!="1010"
  & getin!="1111" & getin!="1321" & getin!="2010" & getin!="1102")
 
 { }
@@ -437,6 +437,29 @@ else {
       a17.style.color= 'red';
       a17.style.fontSize= '28px';
       a17.innerHTML = getin;
+};
+
+if (  getin!="1087" & getin!="1671" & getin!="1311" & getin!="1156"
+      & getin!="1152" & getin!="1709")
+
+{ }
+                     
+else { alert('Frente Oficina'); 
+      /*a18.style.background= 'white';
+      a18.style.border= '1px solid red';
+      a18.innerHTML = getin;*/
+      a18.style.marginLeft= '-30px';
+      a18.style.color= 'red';
+      a18.style.fontSize= '28px';
+      a18.innerHTML = getin;
+      
+      
+       
+       
+       
+      a18.style.background = 'violet';
+      a18.style.transform = 'scale(1.2)';
+      a18.style.transition = '1s'
 };
 
 //// ESTANTERIA DERECHA BAJA FIN //
@@ -506,7 +529,7 @@ else {
      };
 
 if (  getin!="2522" & getin!="1132" & getin!="1103"  
-      & getin!="1671" & getin!="1005" & getin!="1004" & getin!="1314" & getin!="1332")
+      & getin!="1005" & getin!="1004" & getin!="1314" & getin!="1332")
  
 { }
                       
