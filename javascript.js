@@ -138,7 +138,7 @@ else {
        
       };
 
-      if (      getin!="1201" & getin!="3309" & getin!="3431" )  
+      if (getin!="1201" & getin!="3309" & getin!="3431" )  
  
       { }
       
@@ -176,7 +176,7 @@ else { b1.style.marginLeft= '-10px';
 
        
 
-        if (getin!="2535" & getin!="1104"  & getin!="2537")  
+        if (getin!="2535" & getin!="1104"  & getin!="2537" & getin!="3002")  
 
         { }
         
@@ -627,7 +627,7 @@ else {
       c10.innerHTML = getin;
     };
 
-    if ( getin!="3002" & getin!="1086" & getin!="2412" & getin!="2600" & getin!="2601")
+    if (getin!="1086" & getin!="2412" & getin!="2600" & getin!="2601")
  
     { }
                                        
