@@ -1355,5 +1355,9 @@ border-radius: 5px;*/
   animation:spin 8s linear infinite;
 }
 @-moz-keyframes spin { 10% { -moz-transform: rotate(360deg); } }
-@-webkit-keyframes spin { 10% { -webkit-transform: rotate(360deg);  } }
+@-webkit-keyframes spin { 10% { -webkit-transform: rotate(160deg);  } }
 @keyframes spin { 10% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+#crown{
+  transform: scale(2, 2);
+}
