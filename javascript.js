@@ -41,10 +41,10 @@ var b13 = document.getElementById('b13');
 var b14 = document.getElementById('b14');
 var b15 = document.getElementById('b15');
  
+ 
 
 var getin = prompt ('Poné el artículo')
-
-
+ 
 // MESA PRINCIPAL DERECHA 1 PRINCIPIO //
 
 
@@ -370,7 +370,7 @@ else { alert('ESTANTERIA ARRIBA');
          };*/
 
 if ( getin!="1441" & getin!="1498" & getin!="1328" 
-& getin!="2223" & getin!="1462" & getin!="2512" 
+& getin!="2223" & getin!="1462" & getin!="2512" & getin!="2544"
 & getin!="2401" & getin!="1325" & getin!="1865" & getin!="1426" & getin!="2508")
  
 { }
@@ -687,3 +687,4 @@ if (  getin!="860" & getin!="1905" & getin!="1007" & getin!="1683" & getin!="200
         };
 
 // ESTANTERIA FONDO FINAL //
+
