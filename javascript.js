@@ -61,7 +61,7 @@ else {  a1.style.marginLeft= '10px';
         a1.style.transition = '1s'
      };
 
-if (getin!="3014")  
+if (getin!="3014" & getin!="1422" & getin!="1432")  
  
 { }
 
@@ -98,7 +98,7 @@ else {
     a2.style.transition = '1s'
      };
 
-     if (getin!="1550" & getin!="3111" & getin!="1422")  
+     if (getin!="1550" & getin!="3111" & getin!="1104")  
  
      { }
      
@@ -138,7 +138,7 @@ else {
        
       };
 
-      if (getin!="1201" & getin!="3309" & getin!="3431" )  
+      if (getin!="1201" & getin!="3014" & getin!="3431" )  
  
       { }
       
@@ -176,7 +176,7 @@ else { b1.style.marginLeft= '-10px';
 
        
 
-        if (getin!="2535" & getin!="1104"  & getin!="2537" & getin!="3002")  
+        if (getin!="2535" & getin!="2537" & getin!="3002")  
 
         { }
         
@@ -222,7 +222,7 @@ else {b2.style.marginLeft= '-10px';
       b2.style.transition = '1s'
       }
 
-      if (getin!="2535" & getin!="1104")  
+      if (getin!="2535")  
 
       { }
       
@@ -325,7 +325,7 @@ else {
       a13.innerHTML = getin;
      };*/
 
-if (  getin!="2228"  & getin!="1057" & getin!="2533" & 
+if (  getin!="2228"  & getin!="1057" & getin!="3309" & getin!="3011" & 
       getin!="1683" & getin!="1282" & getin!="2005" & getin!="2514" 
         & getin!="3155" & getin!="1326" & getin!="1320" & getin!="3421"  
       )
@@ -342,7 +342,7 @@ else {
       a13.innerHTML = getin;
      };
 
-     if (getin!="1432")  
+     if (getin!="2533")  
 
 { }
       
