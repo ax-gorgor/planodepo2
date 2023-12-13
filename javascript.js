@@ -677,7 +677,7 @@ else {
 
 
 // ESTANTERIA FONDO PRINCIPIO //
-if (  getin!="860" & getin!="1905" & getin!="1683" & getin!="2005")
+if (  getin!="860" & getin!="1905")
  
     { }
                                        
