@@ -423,9 +423,9 @@ else {
 
 
 //// ESTANTERIA DERECHA BAJA PRINCIPIO //
-if (  getin!="1782" & getin!="1712"  & 
-getin!="1306" & getin!="1155" & getin!="1010" & getin!="1282"
- & getin!="1111" & getin!="1321" & getin!="2010" & getin!="1102")
+if (  getin!="1782" & getin!="1712" & getin!="1007" & 
+      getin!="1306" & getin!="1155" & getin!="1010" & getin!="1282"
+      & getin!="1111" & getin!="1321" & getin!="2010" & getin!="1102")
 
 { }
                      
@@ -441,7 +441,8 @@ else {
 
 if (  getin!="1087" & getin!="1671" & getin!="1311" & getin!="1156"
       & getin!="1152" & getin!="1709" & getin!="1676" & getin!="1004"
-      & getin!="2043" & getin!="2407" & getin!="2531" & getin!="2568")
+      & getin!="2043" & getin!="2407" & getin!="2531" & getin!="2568"
+      )
 
 { }
                      
@@ -676,7 +677,7 @@ else {
 
 
 // ESTANTERIA FONDO PRINCIPIO //
-if (  getin!="860" & getin!="1905" & getin!="1007" & getin!="1683" & getin!="2005")
+if (  getin!="860" & getin!="1905" & getin!="1683" & getin!="2005")
  
     { }
                                        
