@@ -274,7 +274,7 @@ else { alert('ESTANTERIA ARRIBA DE LA MESA');
 
 //// ESTANTERIA DERECHA PRINCIPIO //
 
-if (  getin!="1143" & getin!="1433" & getin!="2051" &
+if (  getin!="1143"  & getin!="2051" &
       getin!="2309" &  getin!="1538" 
     )
  
@@ -290,9 +290,9 @@ else {
       a10.innerHTML = getin;
       };
 
-if (  getin!="1548" & getin!="1431" & getin!="1106" &  getin!="1450" & getin!="2020"
-      & getin!="1173" & getin!="3539" & getin!="3057" & getin!="2230" & getin!="1151"
-      & getin!="1324" & getin!="1109"
+if (  getin!="1548" & getin!="1431" & getin!="1106"  
+        & getin!="3539" & getin!="3057" & getin!="2230" & getin!="1151"
+      & getin!="1324" & getin!="1109" & getin!="1433"
        )
  
 { }
@@ -470,9 +470,9 @@ else { alert('Frente Oficina');
 // ESTANTERIA IZQUIERDA PRINCIPIO //
 
 
-if (  getin!="2545" & getin!="1157" & getin!="2041"
-      & getin!="2510" & getin!="2511" & getin!="1494" & getin!="1082" 
-      & getin!="1714" & getin!="1122" & getin!="2234" & getin!="2410")
+if (  getin!="2545" & getin!="1157" & getin!="2020"
+      & getin!="2510" & getin!="1173" & getin!="1450" & getin!="1082" 
+        & getin!="1122" & getin!="2410")
  
 { }
       
@@ -571,7 +571,7 @@ else {
 // ESTANTERIA IZQUIERDA FIN //
 
 
-if (  getin!="1433" & getin!="1133" & getin!="1159" & getin!="1340" & getin!="2506")
+if (   getin!="1133" & getin!="1159" & getin!="1340" & getin!="2506")
  
 { }
                                    
