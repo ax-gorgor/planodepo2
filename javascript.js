@@ -586,7 +586,8 @@ else {
 // ESTANTERIA IZQUIERDA FIN //
 
 
-if (   getin!="1159" & getin!="1084" & getin!="1109" & getin!="2812" & getin!="1093")
+if (   getin!="1159" & getin!="1084" & getin!="1109" & getin!="2812" & getin!="1093"
+      & getin!="1315")
  
 { }
                                    
