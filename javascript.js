@@ -48,7 +48,7 @@ var getin = prompt ('Poné el artículo')
 // MESA PRINCIPAL DERECHA 1 PRINCIPIO //
 
 
-if (getin!="1308" & getin!="2542"   )  
+if (getin!="1308" & getin!="2542" & getin!="1203" & getin!="2521")  
 
 { }
 
@@ -61,7 +61,7 @@ else {  a1.style.marginLeft= '10px';
         a1.style.transition = '1s'
      };
 
-if (getin!="3014" & getin!="1422" & getin!="1432")  
+if (  getin!="314" & getin!="142" & getin!="143"  )  
  
 { }
 
@@ -84,7 +84,7 @@ else {
 // MESA PRINCIPAL DERECHA 2 PRINCIPIO //
 
 
- if ( getin!="2521" & getin!="1312") //mesaPrincipalDerecha2
+ if ( getin!="2521" & getin!="1312" & getin!="4011") //mesaPrincipalDerecha2
  
 { }
 
@@ -98,7 +98,13 @@ else {
     a2.style.transition = '1s'
      };
 
-     if (getin!="1550" & getin!="3111" & getin!="1104")  
+     if (getin!="1104" & getin!="1550" & getin!="3014"
+      & getin!="3111" & getin!="1201"
+      & getin!="3850" & getin!="3431"
+      & getin!="4087" & getin!="4155"
+      & getin!="2539" & getin!="3011"
+      & getin!="4019" & getin!="4309" & getin!="3011"
+     )  
  
      { }
      
@@ -121,7 +127,7 @@ else {
 // MESA PRINCIPAL DERECHA 3 PRINCIPIO //
 
 
-if (  getin!="1309" )  
+if (  getin!="1309" & getin!="3309")  
  
       { }
       
@@ -176,7 +182,7 @@ else { b1.style.marginLeft= '-10px';
 
        
 
-        if (getin!="2535" & getin!="2537" & getin!="3002")  
+        if (getin!="253" & getin!="257" & getin!="302")  
 
         { }
         
@@ -195,7 +201,8 @@ else { b1.style.marginLeft= '-10px';
 
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
-if (  getin!="2540")  
+if (getin!="3308" & getin!="2535" & getin!="2532" & getin!="1128" & getin!="1135" &
+      getin!="3002" & getin!="1675" & getin!="2537" & getin!="2540" & getin!="2530")  
 
 { }
 
@@ -209,7 +216,7 @@ else { alert('ESTANTERIA ARRIBA DE LA MESA');
        b2.style.transition = '1s'
         }
 
-if ( getin!="2538" & getin!="1305" /* & getin!="1552"*/ )  
+if ( getin!="1305" & getin!="2536" & getin!="2538" & getin!="1602"  )  
 
 { }
 
@@ -222,7 +229,8 @@ else {b2.style.marginLeft= '-10px';
       b2.style.transition = '1s'
       }
 
-      if (getin!="2535")  
+      if (getin!="135" & getin!="253" & getin!="258" & getin!="162"  
+      )  
 
       { }
       
@@ -236,7 +244,7 @@ else {b2.style.marginLeft= '-10px';
              b2.style.transition = '1s'
               }  
 
-if ( getin!="2509")  
+if ( getin!="2509" & getin!="2549" & getin!="1305")  
 
 { }
                     
@@ -290,9 +298,12 @@ else {
       a10.innerHTML = getin;
       };
 
-if (  getin!="1548" & getin!="1431" & getin!="1106"  
-        & getin!="3539" & getin!="3057" & getin!="2230" & getin!="1151"
-      & getin!="1324" & getin!="1109" & getin!="1433"
+if (  getin!="3421" & getin!="1057" & getin!="2309"  
+        & getin!="3309" & getin!="3323" & getin!="2228" & getin!="1320"
+      & getin!="1324" & getin!="3539" & getin!="1548" & getin!="2332"
+      & getin!="1106" & getin!="1431"  
+        & getin!="1434" & getin!="3057" & getin!="2230" & getin!="1538"
+       & getin!="1433" & getin!="1143" & getin!="2230"  
        )
  
 { }
@@ -325,7 +336,7 @@ else {
       a13.innerHTML = getin;
      };*/
 
-if (  getin!="2228"  & getin!="1057" & getin!="3309" & getin!="3011" & 
+if (  getin!="2228"  & getin!="1057" & getin!="3011" & 
       getin!="1683" & getin!="2005" & getin!="2514" 
         & getin!="3155" & getin!="1326" & getin!="1320" & getin!="3421"  
       )
@@ -342,7 +353,8 @@ else {
       a13.innerHTML = getin;
      };
 
-     if (getin!="2533")  
+     if (getin!="1435"  & getin!="2577" & getin!="2514" & 
+      getin!="1151" & getin!="1683" & getin!="2005")  
 
 { }
       
@@ -369,9 +381,9 @@ else { alert('ESTANTERIA ARRIBA');
              a13.style.transition = '0.5s'
          };*/
 
-if ( getin!="1441" & getin!="1498" & getin!="1328" 
-& getin!="2223" & getin!="1462" & getin!="2512" & getin!="2544"
-& getin!="2401" & getin!="1325" & getin!="1865" & getin!="1426" & getin!="2508")
+if ( getin!="1085" & getin!="2401" & getin!="2632" 
+& getin!="4328" & getin!="2512" & getin!="1462" & getin!="4323"
+& getin!="2223" & getin!="1328" & getin!="1441" /*& getin!="1426" & getin!="2508"*/)
  
 { }
                       
@@ -401,8 +413,10 @@ else {
 
      
 
-if (    getin!="1085" & getin!="1323"
-        & getin!="1129" & getin!="1310" & getin!="1137" & getin!="1304")
+if (    getin!="1310" & getin!="1304"
+        & getin!="1137" & getin!="1129" & getin!="1865" & getin!="1498"
+        & getin!="1426" & getin!="2209" & getin!="2508" & getin!="1323"
+        & getin!="1427")
  
          { }
                            
@@ -423,9 +437,10 @@ else {
 
 
 //// ESTANTERIA DERECHA BAJA PRINCIPIO //
-if (  getin!="1782" & getin!="1712" & getin!="1007" & 
-      getin!="1306" & getin!="1155" & getin!="1010" & getin!="1282"
-      & getin!="1111" & getin!="1321" & getin!="2010" & getin!="1102")
+if (  getin!="2515" & getin!="1712" & getin!="camisola" & 
+      getin!="1311" & getin!="1155" & getin!="1321" & getin!="1782"
+      & getin!="1111" & getin!="1010" & getin!="1112" & getin!="4137"
+      & getin!="1402")
 
 { }
                      
@@ -439,9 +454,9 @@ else {
       a17.innerHTML = getin;
 };
 
-if (  getin!="1087" & getin!="1671" & getin!="1311" & getin!="1156"
-      & getin!="1152" & getin!="1709" & getin!="1676" & getin!="1004"
-      & getin!="2043" & getin!="2407" & getin!="2531" & getin!="2568"
+if (  getin!="4077" & getin!="1671" & getin!="1077" & getin!="1156"
+      & getin!="1152" & getin!="1150" & getin!="1676" /*& getin!="1004"
+      & getin!="2043" & getin!="2407" & getin!="2531" & getin!="2568"*/
       )
 
 { }
@@ -470,9 +485,9 @@ else { alert('Frente Oficina');
 // ESTANTERIA IZQUIERDA PRINCIPIO //
 
 
-if (  getin!="2545" & getin!="1157" & getin!="2020"
-      & getin!="2510" & getin!="1173" & getin!="1450" & getin!="1082" 
-        & getin!="1122" & getin!="2410")
+if (  getin!="1798" & getin!="4050" & getin!="4057"
+      & getin!="1432" & getin!="4106" & getin!="1422" & getin!="1122" 
+        )
  
 { }
       
@@ -485,8 +500,7 @@ else {
       a100.innerHTML = getin;
       };
 
-if (  getin!="2515" & getin!="2032" & getin!="1440" & getin!="1442" & getin!="1421"
-      & getin!="1708")
+if (  getin!="1074" & getin!="1786" & getin!="1421" & getin!="1322" & getin!="1050")
  
 { }
             
@@ -500,10 +514,8 @@ if (  getin!="2515" & getin!="2032" & getin!="1440" & getin!="1442" & getin!="14
      };
 
 
-if (  getin!="2541" &  getin!="1786" &
-      getin!="2016" & getin!="1662" & getin!="2007" & getin!="2017" & getin!="1322"
-      & getin!="1490" & getin!="2019"
-       & getin!="1798" & getin!="1788" & getin!="1327")
+if (  getin!="1327" &  getin!="3090" &
+      getin!="2019" & getin!="1788" & getin!="2612" & getin!="1013")
  
 { }
             
@@ -516,7 +528,7 @@ else {
       a120.innerHTML = getin;
      };
 
-if (  getin!="2522" & getin!="1132" & getin!="850" & getin!="851" & getin!="1088" & getin!="1050")
+if (  getin!="850" & getin!="2016" & getin!="2522" & getin!="1088" & getin!="3095" & getin!="1089")
  
 { }
                  
@@ -530,8 +542,8 @@ else {
       a130.innerHTML = getin;
      };
 
-if (  getin!="2522" & getin!="1132" & getin!="1103"  
-      & getin!="1005" &  getin!="1314" & getin!="1332")
+if (  getin!="2021" & getin!="1005" & getin!="1103"  
+      & getin!="2017" &  getin!="3320" & getin!="2531")
  
 { }
                       
@@ -544,9 +556,10 @@ else {
       a140.innerHTML = getin;
      };
 
-if (  getin!="1005" &  getin!="1700" & getin!="2402" &   
-      getin!="1012" &  getin!="2011" & getin!="1710" &  getin!="2600" & getin!="2601"
-      & getin!="2014" & getin!="2022" & getin!="1203" & getin!="2021" & getin!="1436" )
+if (  getin!="1091" &  getin!="1710" & getin!="2022" &   
+      getin!="2402" &  getin!="2014" & getin!="1126" &  getin!="1436" & getin!="1700"
+      & getin!="1708" & getin!="2010" & getin!="1540" & getin!="2021" & getin!="1005" & getin!="1103"  
+      & getin!="2017" &  getin!="3320" /*& getin!="2531*/ )
  
 { }
                            
@@ -558,7 +571,9 @@ else {
       a150.innerHTML = getin;
     };
 
-    if (  getin!="1091" &  getin!="2402" & getin!="2022" &  getin!="1710" & getin!="1144" & getin!="2403" )
+    if ( getin!="1091" &  getin!="1710" & getin!="2022" &   
+      getin!="2402" &  getin!="2014" & getin!="1126" &  getin!="1436" & getin!="1700"
+      & getin!="1708" & getin!="2010" & getin!="1540" )
  
     { }
                                
@@ -571,7 +586,7 @@ else {
 // ESTANTERIA IZQUIERDA FIN //
 
 
-if (   getin!="1133" & getin!="1159" & getin!="1340" & getin!="2506")
+if (   getin!="1159" & getin!="1084" & getin!="1109" & getin!="2812" & getin!="1093")
  
 { }
                                    
@@ -616,7 +631,7 @@ else {
 
 // ESTANTERIA OFICINA 2 PRINCIPIO //
 
-if (getin!="2015" & getin!="1126" & getin!="1112" & getin!="1089" )
+if (getin!="1001" & getin!="1101" & getin!="1105" & getin!="1004" & getin!="1086")
  
 { }
                                    
@@ -628,7 +643,10 @@ else {
       c10.innerHTML = getin;
     };
 
-    if (getin!="1086" & getin!="2412" & getin!="1004")
+    if (getin!="1102" & getin!="2412" & getin!="1702"
+      & getin!="2015" & getin!="1087"
+      & getin!="1313" & getin!="3086" & getin!="1008"
+    )
  
     { }
                                        
@@ -658,7 +676,9 @@ else {
             };
     
 
-        if ( getin!="2411" & getin!="1539" & getin!="1420")
+        if ( getin!="1500" & getin!="1069" & getin!="1420"
+            & getin!="1539" & getin!="2411" & getin!="1072"
+        )
  
     { }
                                        
