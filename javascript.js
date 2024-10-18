@@ -500,7 +500,7 @@ else {
       a100.innerHTML = getin;
       };
 
-if (  getin!="1074" & getin!="1786" & getin!="1421" & getin!="1322" & getin!="1050")
+if (  getin!="1074" & getin!="1786" & getin!="1421" & getin!="1322" & getin!="1050" & getin!="1315")
  
 { }
             
@@ -587,7 +587,7 @@ else {
 
 
 if (   getin!="1159" & getin!="1084" & getin!="1109" & getin!="2812" & getin!="1093"
-      & getin!="1315")
+      )
  
 { }
                                    
