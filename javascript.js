@@ -487,6 +487,7 @@ else { alert('Frente Oficina');
 
 if (  getin!="1798" & getin!="4050" & getin!="4057"
       & getin!="3002" & getin!="4106" & getin!="1422" & getin!="1122" 
+      & getin!="1590" & getin!="1490"
         )
  
 { }
