@@ -84,7 +84,7 @@ else {
 // MESA PRINCIPAL DERECHA 2 PRINCIPIO //
 
 
- if ( getin!="2521" & getin!="1312" & getin!="4011") //mesaPrincipalDerecha2
+ if ( getin!="2521" & getin!="1312" ) //mesaPrincipalDerecha2
  
 { }
 
@@ -647,7 +647,7 @@ else {
 
     if (getin!="1102" & getin!="2412" & getin!="1702"
       & getin!="2015" & getin!="1087"
-      & getin!="1313" & getin!="3086" & getin!="1008"
+      & getin!="1313" & getin!="3086" & getin!="1008" & getin!="4011"
     )
  
     { }
