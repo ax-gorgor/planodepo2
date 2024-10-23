@@ -283,7 +283,7 @@ else { alert('ESTANTERIA ARRIBA DE LA MESA');
 //// ESTANTERIA DERECHA PRINCIPIO //
 
 if (  getin!="1143"  & getin!="2051" &
-      getin!="2309" &  getin!="1538" 
+      getin!="2309"  & getin!="2577"
     )
  
 { }
@@ -302,8 +302,8 @@ if (  getin!="3421" & getin!="1057" & getin!="2309"
         & getin!="3309" & getin!="3323" & getin!="2228" & getin!="1320"
       & getin!="1324" & getin!="3539" & getin!="1548" & getin!="2332"
       & getin!="1106" & getin!="1431"  
-        & getin!="1434" & getin!="3057" & getin!="2230" & getin!="1538"
-       & getin!="1433" & getin!="1143" & getin!="2230"  
+        & getin!="1434" & getin!="3057" & getin!="2230"  
+       & getin!="1433" & getin!="1143" & getin!="2230" & getin!="2543" 
        )
  
 { }
@@ -353,7 +353,7 @@ else {
       a13.innerHTML = getin;
      };
 
-     if (getin!="1435"  & getin!="2577" & getin!="2514" & 
+     if (getin!="2514" & 
       getin!="1151" & getin!="1683" & getin!="2005")  
 
 { }
@@ -487,7 +487,7 @@ else { alert('Frente Oficina');
 
 if (  getin!="1798" & getin!="4050" & getin!="4057"
       & getin!="3002" & getin!="4106" & getin!="1422" & getin!="1122" 
-      & getin!="1590" & getin!="1490"
+      & getin!="1590" & getin!="1490" & getin!="1435"
         )
  
 { }
@@ -588,6 +588,7 @@ else {
 
 
 if (   getin!="1159" & getin!="1084" & getin!="1109" & getin!="2812" & getin!="1093"
+      & getin!="1538"
       )
  
 { }
