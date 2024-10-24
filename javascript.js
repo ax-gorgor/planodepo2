@@ -558,7 +558,7 @@ else {
       a140.innerHTML = getin;
      };
 
-if (  getin!="1091" &  getin!="1710" & getin!="2022" &   
+if (  getin!="1091" &  getin!="1710" &    
       getin!="2402" &  getin!="2014" & getin!="1126" &  getin!="1436" & getin!="1700"
       & getin!="1708" & getin!="2010" & getin!="1540" & getin!="2021" & getin!="1005" & getin!="1103"  
       & getin!="2017" &  getin!="3320" /*& getin!="2531*/ )
@@ -573,7 +573,7 @@ else {
       a150.innerHTML = getin;
     };
 
-    if ( getin!="1091" &  getin!="1710" & getin!="2022" &   
+    if ( getin!="1091" &  getin!="1710" &    
       getin!="2402" &  getin!="2014" & getin!="1126" &  getin!="1436" & getin!="1700"
       & getin!="1708" & getin!="2010" & getin!="1540" )
  
