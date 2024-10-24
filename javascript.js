@@ -98,12 +98,12 @@ else {
     a2.style.transition = '1s'
      };
 
-     if (getin!="1104" & getin!="1550" & getin!="3014"
+     if ( getin!="1550" & getin!="3014"
       & getin!="3111" & getin!="1201"
       & getin!="3850" & getin!="3431"
       & getin!="4087" & getin!="4155"
       & getin!="2539" & getin!="3011"
-      & getin!="4019" & getin!="4309" & getin!="3011"
+      & getin!="4019" & getin!="4309" & getin!="3011" & getin!="1101"
      )  
  
      { }
@@ -607,7 +607,7 @@ else {
  
 // ESTANTERIA OFICINA 1 PRINCIPIO //
 
- if ( getin!="1105")
+ if ( getin!="115")
  
 { }
                                    
@@ -635,7 +635,9 @@ else {
 
 // ESTANTERIA OFICINA 2 PRINCIPIO //
 
-if (getin!="1001" & getin!="1101" & getin!="1105" & getin!="1004" & getin!="1086")
+if (getin!="1001"  & getin!="1105" & getin!="1004" & getin!="1086"
+      & getin!="1104"
+)
  
 { }
                                    
