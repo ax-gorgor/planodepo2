@@ -317,8 +317,9 @@ else {
       a10.style.marginTop= '24px';
       a10.style.marginLeft= '-72px';
       a10.innerHTML = getin;
-      a10.style.transform = 'scale(2)';
       a10.style.transition = '0.5s';
+      a10.style.transform = 'rotate(360deg) scale(1.5)';
+      a10.style.transition = '1.5s';
       
       };
 
@@ -327,7 +328,7 @@ if (  getin!="3421" & getin!="1057" & getin!="2309"
       & getin!="1324" & getin!="3539" & getin!="1548" & getin!="2332"
       & getin!="1106" & getin!="1431"  
         & getin!="1434" & getin!="3057" & getin!="2230"  
-       & getin!="1433" & getin!="1143" & getin!="2230" & getin!="2543" 
+       & getin!="1433"  & getin!="2230" & getin!="2543" 
        )
  
 { }
@@ -344,6 +345,9 @@ if (  getin!="3421" & getin!="1057" & getin!="2309"
       a12.innerHTML = getin;
       a12.style.transform = 'scale(2)';
       a12.style.transition = '0.5s';
+      a12.style.transform = 'rotate(360deg) scale(1.5)';
+      a12.style.transition = '1.5s';
+      
      };
 
 
@@ -383,6 +387,8 @@ else {
       a13.innerHTML = getin;
       a13.style.transform = 'scale(2)';
       a13.style.transition = '0.5s';
+      a13.style.transform = 'rotate(360deg) scale(1.5)';
+      a13.style.transition = '1.5s';
      };
 
      if (getin!="2514" & 
@@ -428,6 +434,8 @@ else {
       a14.innerHTML = getin;
       a14.style.transform = 'scale(2)';
       a14.style.transition = '0.5s';
+      a14.style.transform = 'rotate(360deg) scale(1.5)';
+      a14.style.transition = '1.5s';
      };
 
      if (getin!="2209" & getin!="2512" & getin!="1441")
@@ -464,6 +472,8 @@ else {
       a15.innerHTML = getin;
       a15.style.transform = 'scale(2)';
       a15.style.transition = '0.5s';
+      a15.style.transform = 'rotate(360deg) scale(1.5)';
+      a15.style.transition = '1.5s';
     };
  
     
@@ -485,9 +495,13 @@ else {
       a17.style.border= '1px solid red';
       a17.innerHTML = getin;*/
       a17.style.marginLeft= '-30px';
-      a17.style.color= 'red';
+      a17.style.color= 'black';
       a17.style.fontSize= '28px';
       a17.innerHTML = getin;
+      a17.style.marginTop= '4px';
+      a17.style.marginLeft= '-48px';
+      a17.style.transform = 'rotate(360deg) scale(1.8)';
+      a17.style.transition = '1.5s';
 };
 
 if (  getin!="4077" & getin!="1671" & getin!="1077" & getin!="1156"
@@ -502,16 +516,20 @@ else { alert('Frente Oficina');
       a18.style.border= '1px solid red';
       a18.innerHTML = getin;*/
       a18.style.marginLeft= '-30px';
-      a18.style.color= 'red';
+      a18.style.color= 'black';
       a18.style.fontSize= '28px';
       a18.innerHTML = getin;
+      a18.innerHTML = 'Frente Oficina';
+      a18.style.marginTop= '-60px';
+      a18.style.marginLeft= '-48px';
+       
       
       
        
        
        
-      a18.style.background = 'violet';
-      a18.style.transform = 'scale(1.2)';
+      a18.style.background = 'yellow';
+      a18.style.transform = 'scale(1.5)';
       a18.style.transition = '1s'
 };
 
@@ -521,7 +539,7 @@ else { alert('Frente Oficina');
 // ESTANTERIA IZQUIERDA PRINCIPIO //
 
 
-if (  getin!="1798" & getin!="4050" & getin!="4057"
+if (   getin!="4050" & getin!="4057"
       & getin!="3002" & getin!="4106" & getin!="1422" & getin!="1122" 
       & getin!="1590" & getin!="1490" & getin!="1435"
         )
@@ -533,8 +551,14 @@ else {
       a100.style.border= '1px solid red';
       a100.innerHTML = getin;*/
       a100.style.fontSize= '24px';
-      a100.style.color= 'red';
+      a100.style.color= 'black';
       a100.innerHTML = getin;
+      a100.style.marginLeft= ' 72px';
+      a100.style.marginTop= '-48px';
+      a100.innerHTML = getin;
+             
+      a100.style.transform = 'rotate(630deg) scale(1.8)';
+      a100.style.transition = '1.2s'
       };
 
 if (  getin!="1074" & getin!="1786" & getin!="1421" & getin!="1322" & getin!="1050" & getin!="1315")
@@ -546,8 +570,11 @@ if (  getin!="1074" & getin!="1786" & getin!="1421" & getin!="1322" & getin!="10
       a110.style.border= '1px solid red';
       a110.innerHTML = getin;*/
       a110.style.fontSize= '24px';
-      a110.style.color= 'red';
+      a110.style.color= 'black';
       a110.innerHTML = getin;
+      a110.style.marginLeft= ' 72px';
+      a110.style.transform = 'rotate(630deg) scale(1.8)';
+      a110.style.transition = '1s'
      };
 
 
@@ -561,8 +588,10 @@ else {
       a120.style.border= '1px solid red';*/
       a120.innerHTML = getin;
       a120.style.fontSize= '24px';
-      a120.style.color= 'red';
+      a120.style.color= 'black';
       a120.innerHTML = getin;
+      a120.style.marginLeft= ' 72px';
+      a120.style.transform = 'scale(1.6)';
      };
 
 if (  getin!="850" & getin!="2016" & getin!="2522" & getin!="1088" & getin!="3095" & getin!="1089")
@@ -575,8 +604,10 @@ else {
        */
       a130.innerHTML = getin;
       a130.style.fontSize= '24px';
-      a130.style.color= 'red';
+      a130.style.color= 'black';
       a130.innerHTML = getin;
+      a130.style.marginLeft= ' 72px';
+      a130.style.transform = 'scale(1.4)';
      };
 
 if (  getin!="2021" & getin!="1005" & getin!="1103"  
@@ -589,12 +620,14 @@ else {
       a140.style.border= '1px solid red';
       a140.innerHTML = getin;*/
       a140.style.fontSize= '24px';
-      a140.style.color= 'red';
+      a140.style.color= 'black';
       a140.innerHTML = getin;
+      a140.style.marginLeft= ' 72px';
+      a140.style.transform = 'scale(1.4)';
      };
 
 if (  getin!="1091" &  getin!="1710" &    
-      getin!="2402" &  getin!="2014"  &  getin!="1436" & getin!="1700"
+      getin!="2402" &  getin!="2014"  & getin!="1700"
       & getin!="1708" & getin!="2010" & getin!="1540" & getin!="2021" & getin!="1005" & getin!="1103"  
       & getin!="2017" &  getin!="3320" /*& getin!="2531*/ )
  
@@ -604,8 +637,10 @@ else {
       /*a150.style.background= 'white';
       a150.style.border= '1px solid red';*/
       a150.style.fontSize= '24px';
-      a150.style.color= 'red';
+      a150.style.color= 'black';
       a150.innerHTML = getin;
+      a150.style.marginLeft= ' 72px';
+      a150.style.transform = 'scale(1.4)';
     };
 
     if ( getin!="1091" &  getin!="1710" &    
@@ -616,8 +651,10 @@ else {
                                
     else { 
       a107.style.fontSize= '24px';
-      a107.style.color= 'red';
+      a107.style.color= 'black';
       a107.innerHTML = getin;
+      a107.style.marginLeft= ' 72px';
+      a107.style.transform = 'scale(1.4)';
         }; 
 
 // ESTANTERIA IZQUIERDA FIN //
@@ -633,9 +670,13 @@ else {
       /*a20.style.background= 'white';
       a20.style.border= '1px solid red';
       a20.innerHTML = getin;*/
-      a20.style.color= 'red';
-      a20.style.fontSize= '28px';
+      a20.style.color= 'green';
+      a20.style.fontSize= '24px';
       a20.innerHTML = getin;
+      a20.style.marginTop= '60px';
+      a20.style.marginLeft= '180px'; 
+      a20.style.transform = 'rotate(-360deg) scale(2)';
+      a20.style.transition = '1.6s'
     };
 
 
