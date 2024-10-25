@@ -315,7 +315,7 @@ else {
       a10.style.color= 'black';
       a10.style.fontSize= '24px';
       a10.style.marginTop= '24px';
-      a10.style.marginLeft= '-72px';
+      a10.style.marginLeft= '-48px';
       a10.innerHTML = getin;
       a10.style.transition = '0.5s';
       a10.style.transform = 'rotate(360deg) scale(1.5)';
@@ -341,7 +341,7 @@ if (  getin!="3421" & getin!="1057" & getin!="2309"
       a12.style.color= 'black';
       a12.style.fontSize= '24px';
       a12.style.marginTop= '24px';
-      a12.style.marginLeft= '-72px';
+      a12.style.marginLeft= '-48px';
       a12.innerHTML = getin;
       a12.style.transform = 'scale(2)';
       a12.style.transition = '0.5s';
@@ -383,7 +383,7 @@ else {
       a13.style.color= 'black';
       a13.style.fontSize= '24px';
       a13.style.marginTop= '24px';
-      a13.style.marginLeft= '-72px';
+      a13.style.marginLeft= '-48px';
       a13.innerHTML = getin;
       a13.style.transform = 'scale(2)';
       a13.style.transition = '0.5s';
@@ -430,7 +430,7 @@ else {
       a14.style.color= 'black';
       a14.style.fontSize= '24px';
       a14.style.marginTop= '4px';
-      a14.style.marginLeft= '-72px';
+      a14.style.marginLeft= '-48px';
       a14.innerHTML = getin;
       a14.style.transform = 'scale(2)';
       a14.style.transition = '0.5s';
@@ -468,7 +468,7 @@ else {
       a15.style.color= 'black';
       a15.style.fontSize= '24px';
       a15.style.marginTop= '4px';
-      a15.style.marginLeft= '-72px';
+      a15.style.marginLeft= '-48px';
       a15.innerHTML = getin;
       a15.style.transform = 'scale(2)';
       a15.style.transition = '0.5s';
@@ -674,7 +674,7 @@ else {
       a20.style.fontSize= '24px';
       a20.innerHTML = getin;
       a20.style.marginTop= '60px';
-      a20.style.marginLeft= '180px'; 
+      a20.style.marginLeft= '120px'; 
       a20.style.transform = 'rotate(-360deg) scale(2)';
       a20.style.transition = '1.6s'
     };
