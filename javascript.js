@@ -55,10 +55,13 @@ if (getin!="1308" & getin!="2542" & getin!="2521" & getin!="2507")
 else {  a1.style.marginLeft= '10px';
         a1.style.color= 'black';
         a1.style.fontSize= '24px';
+        a1.style.padding= '12px';
         a1.innerHTML = getin;
         a1.style.background = 'white';
-        a1.style.transform = 'scale(0.8)';
-        a1.style.transition = '1s'
+        a1.style.transform = 'scale(1.6)';
+        a1.style.transition = '0.5s';
+         
+        
      };
 
 if (  getin!="314" & getin!="142" & getin!="143" & getin!="1069"  )  
@@ -67,13 +70,15 @@ if (  getin!="314" & getin!="142" & getin!="143" & getin!="1069"  )
 
 else { 
  alert('ESTANTERIA ARRIBA DE LA MESA'); 
- a1.style.marginLeft= '-10px';
+ a1.style.marginLeft= '-2px';
  a1.style.color= 'white';
  a1.style.fontSize= '24px';
+ a1.style.padding= '12px';
  a1.innerHTML = getin;
  a1.style.background = 'black';
- a1.style.transform = 'scale(1.2)';
- a1.style.transition = '1s'
+ a1.style.transform = 'scale(1.6)';
+ a1.style.transition = '0.5s';
+ a1.style.marginLeft= '-12px';
   };
         
 
@@ -92,10 +97,11 @@ else {
     a2.style.marginLeft= '10px';
     a2.style.color= 'black';
     a2.style.fontSize= '24px';
-    a2.innerHTML = getin;
-    a2.style.background = 'white';
-    a2.style.transform = 'scale(0.8)';
-    a2.style.transition = '1s'
+    a2.style.padding= '12px';
+        a2.innerHTML = getin;
+        a2.style.background = 'white';
+        a2.style.transform = 'scale(1.6)';
+        a2.style.transition = '0.5s';
      };
 
      if ( getin!="1550" & getin!="3014"
@@ -110,13 +116,15 @@ else {
      
 else { 
       alert('ESTANTERIA ARRIBA DE LA MESA'); 
-      a2.style.marginLeft= '-10px';
+      a2.style.marginLeft= '-2px';
       a2.style.color= 'white';
       a2.style.fontSize= '24px';
+      a2.style.padding= '12px';
       a2.innerHTML = getin;
       a2.style.background = 'black';
-      a2.style.transform = 'scale(1.2)';
-      a2.style.transition = '1s'
+      a2.style.transform = 'scale(1.6)';
+      a2.style.transition = '0.5s';
+      a2.style.marginLeft= '-12px';
        };
       
 
@@ -133,13 +141,14 @@ if (  getin!="1309" & getin!="3309")
       
 else { 
        
-       a3.style.marginLeft= '10px';
-       a3.style.color= 'black';
-       a3.style.fontSize= '24px';
-       a3.innerHTML = getin;
-       a3.style.background = 'white';
-       a3.style.transform = 'scale(0.8)';
-       a3.style.transition = '1s'
+      a3.style.marginLeft= '10px';
+      a3.style.color= 'black';
+      a3.style.fontSize= '24px';
+      a3.style.padding= '12px';
+      a3.innerHTML = getin;
+      a3.style.background = 'white';
+      a3.style.transform = 'scale(1.6)';
+      a3.style.transition = '0.5s';
         
        
       };
@@ -150,13 +159,15 @@ else {
       
 else { 
        alert('ESTANTERIA ARRIBA DE LA MESA'); 
-       a3.style.marginLeft= '-10px';
-       a3.style.color= 'white';
-       a3.style.fontSize= '24px';
-       a3.innerHTML = getin;
-       a3.style.background = 'black';
-       a3.style.transform = 'scale(1.2)';
-       a3.style.transition = '1s'
+      a3.style.marginLeft= '-2px';
+      a3.style.color= 'white';
+      a3.style.fontSize= '24px';
+      a3.style.padding= '12px';
+      a3.innerHTML = getin;
+      a3.style.background = 'black';
+      a3.style.transform = 'scale(1.6)';
+      a3.style.transition = '0.5s';
+      a3.style.marginLeft= '-12px';
         };
 
 
@@ -171,13 +182,14 @@ if (getin!="2226" & getin!="2536" )
 
 { }
 
-else { b1.style.marginLeft= '-10px';
-       b1.style.color= 'black';
-       b1.style.fontSize= '24px';
-       b1.innerHTML = getin;
-       b1.style.background = 'white';
-       b1.style.transform = 'scale(0.8)';
-       b1.style.transition = '1s'
+else { b1.style.marginLeft= '10px';
+      b1.style.color= 'black';
+      b1.style.fontSize= '24px';
+      b1.style.padding= '12px';
+      b1.innerHTML = getin;
+      b1.style.background = 'white';
+      b1.style.transform = 'scale(1.6)';
+      b1.style.transition = '0.5s';
         }
 
        
@@ -201,32 +213,35 @@ else { b1.style.marginLeft= '-10px';
 
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
-if (getin!="3308" & getin!="2535" & getin!="2532" & getin!="1128" & getin!="1135"  
+if (getin!="3308" & getin!="2535" & getin!="2532" &   getin!="1135"  
        & getin!="1675" & getin!="2537" &  getin!="2530")  
 
 { }
 
 else { alert('ESTANTERIA ARRIBA DE LA MESA'); 
-       b2.style.marginLeft= '10px';
-       b2.style.color= 'white';
-       b2.style.fontSize= '24px';
-       b2.innerHTML = getin;
-       b2.style.background = 'black';
-       b2.style.transform = 'scale(1.2)';
-       b2.style.transition = '1s'
+      b2.style.marginLeft= '-2px';
+      b2.style.color= 'white';
+      b2.style.fontSize= '24px';
+      b2.style.padding= '12px';
+      b2.innerHTML = getin;
+      b2.style.background = 'black';
+      b2.style.transform = 'scale(1.6)';
+      b2.style.transition = '0.5s';
+      b2.style.marginLeft= '-12px';
         }
 
 if ( getin!="1305" & getin!="2536" & getin!="2538" & getin!="2540" )  
 
 { }
 
-else {b2.style.marginLeft= '-10px';
+else {b2.style.marginLeft= '10px';
       b2.style.color= 'black';
       b2.style.fontSize= '24px';
+      b2.style.padding= '12px';
       b2.innerHTML = getin;
       b2.style.background = 'white';
-      b2.style.transform = 'scale(0.8)';
-      b2.style.transition = '1s'
+      b2.style.transform = 'scale(1.6)';
+      b2.style.transition = '0.5s';
       }
 
       if (getin!="135" & getin!="253" & getin!="258" & getin!="162"  
@@ -248,31 +263,34 @@ if ( getin!="2509" & getin!="2549" & getin!="1305")
 
 { }
                     
-else { b3.style.marginLeft= '-10px';
-        b3.style.color= 'black';
-        b3.style.fontSize= '24px';
-        b3.innerHTML = getin;
-        b3.style.background = 'white';
-        b3.style.transform = 'scale(0.8)';
-        b3.style.transition = '1s'
+else { b3.style.marginLeft= '10px';
+      b3.style.color= 'black';
+      b3.style.fontSize= '24px';
+      b3.style.padding= '12px';
+      b3.innerHTML = getin;
+      b3.style.background = 'white';
+      b3.style.transform = 'scale(1.6)';
+      b3.style.transition = '0.5s';
     }
               
 
-
-if (getin!="1128" & getin!="1675" & getin!="2546" 
-      & getin!="2549" & getin!="1135" & getin!="1203")  
+ 
+if (getin!="1128" & getin!="2546" 
+      & getin!="2549"  & getin!="1203")  
 
 { }
       
 else { alert('ESTANTERIA ARRIBA DE LA MESA'); 
-       b3.style.marginLeft= '10px';
-       b3.style.color= 'white';
-       b3.style.fontSize= '24px';
-       b3.innerHTML = getin;
-       b3.style.background = 'black';
-       b3.style.transform = 'scale(1.2)';
-       b3.style.transition = '1s'
-      }
+      b3.style.marginLeft= '-2px';
+      b3.style.color= 'white';
+      b3.style.fontSize= '24px';
+      b3.style.padding= '12px';
+      b3.innerHTML = getin;
+      b3.style.background = 'black';
+      b3.style.transform = 'scale(1.6)';
+      b3.style.transition = '0.5s';
+      b3.style.marginLeft= '-12px';
+      } 
 
 
  
@@ -294,9 +312,14 @@ else {
       a10.style.border= '1px solid red';
       a10.innerHTML = getin;*/
       a10.style.marginLeft= '-30px';
-      a10.style.color= 'red';
+      a10.style.color= 'black';
       a10.style.fontSize= '24px';
+      a10.style.marginTop= '24px';
+      a10.style.marginLeft= '-72px';
       a10.innerHTML = getin;
+      a10.style.transform = 'scale(2)';
+      a10.style.transition = '0.5s';
+      
       };
 
 if (  getin!="3421" & getin!="1057" & getin!="2309"  
@@ -314,9 +337,13 @@ if (  getin!="3421" & getin!="1057" & getin!="2309"
       a11.style.border= '1px solid red';
       a11.innerHTML = getin;*/
       a12.style.marginLeft= '-30px';
-      a12.style.color= 'red';
+      a12.style.color= 'black';
       a12.style.fontSize= '24px';
+      a12.style.marginTop= '24px';
+      a12.style.marginLeft= '-72px';
       a12.innerHTML = getin;
+      a12.style.transform = 'scale(2)';
+      a12.style.transition = '0.5s';
      };
 
 
@@ -349,9 +376,13 @@ else {
       a13.style.border= '1px solid red';
       a13.innerHTML = getin;*/
       a13.style.marginLeft= '-30px';
-      a13.style.color= 'red';
+      a13.style.color= 'black';
       a13.style.fontSize= '24px';
+      a13.style.marginTop= '24px';
+      a13.style.marginLeft= '-72px';
       a13.innerHTML = getin;
+      a13.style.transform = 'scale(2)';
+      a13.style.transition = '0.5s';
      };
 
      if (getin!="2514" & 
@@ -383,32 +414,35 @@ else { alert('ESTANTERIA ARRIBA');
          };*/
 
 if ( getin!="1085" & getin!="2401" & getin!="2632" 
-& getin!="4328" & getin!="2512" & getin!="1462" & getin!="4323"
-& getin!="2223" & getin!="1328" & getin!="1441" /*& getin!="1426" & getin!="2508"*/)
+& getin!="4328"  & getin!="1462" & getin!="4323"
+& getin!="2223" & getin!="1328"  /*& getin!="1426" & getin!="2508"*/)
  
 { }
                       
 else { 
-      /*a14.style.background= 'white';
-      a14.style.border= '1px solid red';
-      a14.innerHTML = getin;*/
       a14.style.marginLeft= '-30px';
-      a14.style.color= 'red';
+      a14.style.color= 'black';
       a14.style.fontSize= '24px';
+      a14.style.marginTop= '4px';
+      a14.style.marginLeft= '-72px';
       a14.innerHTML = getin;
+      a14.style.transform = 'scale(2)';
+      a14.style.transition = '0.5s';
      };
 
-     if (getin!="2209")
+     if (getin!="2209" & getin!="2512" & getin!="1441")
  
      { }
                                 
      else {  alert('ARRIBA DE TODO'); 
              a14.style.marginLeft= '-40px';
-             a14.style.color= 'red';
+             a14.style.color= 'black';
              a14.style.fontSize= '36px';
+             a14.style.marginLeft= '-96px';
+             a14.style.marginTop= '-120px';
              a14.innerHTML = getin;
              
-             a14.style.transform = 'rotate(90deg) scale(1.2)';
+             a14.style.transform = 'rotate(90deg) scale(1.8)';
              a14.style.transition = '0.5s'
          };
 
@@ -416,19 +450,20 @@ else {
 
 if (    getin!="1310" & getin!="1304"
         & getin!="1137" & getin!="1129" & getin!="1865" & getin!="1498"
-        & getin!="1426" & getin!="2209" & getin!="2508" & getin!="1323" & getin!="1602"
+        & getin!="1426" & getin!="2508" & getin!="1323" & getin!="1602"
         & getin!="1427")
  
          { }
                            
 else { 
-      /*a15.style.background= 'white';
-      a15.style.border= '1px solid red';
-      a15.innerHTML = getin;*/
       a15.style.marginLeft= '-30px';
-      a15.style.color= 'red';
+      a15.style.color= 'black';
       a15.style.fontSize= '24px';
+      a15.style.marginTop= '4px';
+      a15.style.marginLeft= '-72px';
       a15.innerHTML = getin;
+      a15.style.transform = 'scale(2)';
+      a15.style.transition = '0.5s';
     };
  
     
