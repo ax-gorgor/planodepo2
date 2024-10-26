@@ -54,12 +54,13 @@ var getin = prompt ('Poné el artículo')
                      
 else { 
       a1.style.background= 'white';
+       
       a1.style.marginLeft= '-30px';
       a1.style.color= 'black';
-      a1.style.fontSize= '24px';
+      a1.style.fontSize= '18px';
       a1.innerHTML = getin;
       a1.innerHTML = 'Medio de la mesa 2530';
-      a1.style.marginTop= '-60px';
+      a1.style.marginTop= '-12px';
       a1.style.marginLeft= '-48px';
       
 };
