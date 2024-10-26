@@ -320,7 +320,7 @@ else { alert('ESTANTERIA ARRIBA DE LA MESA');
 //// ESTANTERIA DERECHA PRINCIPIO //
 
 if (  getin!="1143"  & getin!="2051" &
-      getin!="2309"  & getin!="2577"
+      getin!="2309"  & getin!="2577" & getin!="1544"
     )
  
 { }
