@@ -823,7 +823,7 @@ border-radius: 5px;*/
  grid-column-start: 2;
 grid-column-end: 5;
 grid-row-start: 18;
-grid-row-end: 19;
+grid-row-end: 21;
 
 
 }
@@ -1154,7 +1154,7 @@ border-radius: 5px;*/
             grid-column-start: 2;
         grid-column-end: 5;
         grid-row-start: 18;
-        grid-row-end: 19;
+        grid-row-end: 21;
         background: rgb(131, 250, 180) ;
         border: 2px solid;
         border-radius: 5px;
@@ -1311,7 +1311,7 @@ border-radius: 5px;*/
      grid-column-start: 2;
  grid-column-end: 5;
  grid-row-start: 18;
- grid-row-end: 19;
+ grid-row-end: 21;
  background: rgb(131, 250, 180) ;
  border: 2px solid;
  border-radius: 5px;
