@@ -47,8 +47,25 @@ var getin = prompt ('Poné el artículo')
  
 // MESA PRINCIPAL DERECHA 1 PRINCIPIO //
 
+ if ( getin!="2530"
+)
 
-if (getin!="1308" & getin!="2542" & getin!="2521" & getin!="2507")  
+{ }
+                     
+else { 
+      a1.style.background= 'white';
+      a1.style.marginLeft= '-30px';
+      a1.style.color= 'black';
+      a1.style.fontSize= '24px';
+      a1.innerHTML = getin;
+      a1.innerHTML = 'Medio de la mesa 2530';
+      a1.style.marginTop= '-60px';
+      a1.style.marginLeft= '-48px';
+      
+};
+ 
+
+if (getin!="1308" & getin!="2542" & getin!="2521" & getin!="2507"  )  
 
 { }
 
@@ -214,7 +231,7 @@ else { b1.style.marginLeft= '10px';
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
 if (getin!="3308" & getin!="2535" & getin!="2532" &   getin!="1135"  
-       & getin!="1675" & getin!="2537" &  getin!="2530")  
+       & getin!="1675" & getin!="2537" )  
 
 { }
 
