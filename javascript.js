@@ -342,8 +342,8 @@ else {
       };
 
 if (  getin!="3421" & getin!="1057" & getin!="2309"  
-        & getin!="3309" & getin!="3323" & getin!="2228" & getin!="1320"
-      & getin!="1324" & getin!="3539" & getin!="1548" & getin!="2332"
+        & getin!="3323" & getin!="2228" & getin!="1320"
+      & getin!="1324"  & getin!="1548" & getin!="2332"
       & getin!="1106" & getin!="1431"  
         & getin!="1434"  & getin!="2230"  
        & getin!="1433"  & getin!="2230" & getin!="2543" 
@@ -388,7 +388,7 @@ else {
 
 if (  getin!="2228"  & getin!="1057"  & 
       getin!="1683" & getin!="2005" & getin!="2514" 
-        & getin!="3155" & getin!="1326" & getin!="1320" & getin!="3421"  
+        & getin!="1326" & getin!="1320" & getin!="3421"  
       )
  
 { }
@@ -559,7 +559,7 @@ else { alert('Frente Oficina');
 
 if (   getin!="4050" & getin!="4057"
       & getin!="3002" & getin!="4106" & getin!="1422" & getin!="1122" 
-      & getin!="1590" & getin!="1490" & getin!="1435"
+      & getin!="1590" & getin!="1490" & getin!="1435" & getin!="2015"
         )
  
 { }
@@ -744,8 +744,9 @@ else {
     };
 
     if (getin!="1102" & getin!="2412" & getin!="1702"
-      & getin!="2015" & getin!="1087"
+      & getin!="1087"
       & getin!="1313" & getin!="3086" & getin!="4011" 
+      & getin!="3155" & getin!="3309" & getin!="3539" 
     )
  
     { }
