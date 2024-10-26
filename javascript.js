@@ -126,8 +126,8 @@ else {
       & getin!="3111" & getin!="1201"
       & getin!="3850" & getin!="3431"
       & getin!="4087" 
-      & getin!="2539" & getin!="3011"  & getin!="2411" 
-      & getin!="4019" & getin!="3011" & getin!="1101"
+      & getin!="2539"  & getin!="2411" 
+      & getin!="4019" &  getin!="1101" &  getin!="3057"
      )  
  
      { }
@@ -345,7 +345,7 @@ if (  getin!="3421" & getin!="1057" & getin!="2309"
         & getin!="3309" & getin!="3323" & getin!="2228" & getin!="1320"
       & getin!="1324" & getin!="3539" & getin!="1548" & getin!="2332"
       & getin!="1106" & getin!="1431"  
-        & getin!="1434" & getin!="3057" & getin!="2230"  
+        & getin!="1434"  & getin!="2230"  
        & getin!="1433"  & getin!="2230" & getin!="2543" 
        )
  
@@ -386,7 +386,7 @@ else {
       a13.innerHTML = getin;
      };*/
 
-if (  getin!="2228"  & getin!="1057" & getin!="3011" & 
+if (  getin!="2228"  & getin!="1057"  & 
       getin!="1683" & getin!="2005" & getin!="2514" 
         & getin!="3155" & getin!="1326" & getin!="1320" & getin!="3421"  
       )
@@ -502,7 +502,7 @@ else {
 
 //// ESTANTERIA DERECHA BAJA PRINCIPIO //
 if (  getin!="2515" & getin!="1712" & getin!="camisola" & 
-      getin!="1311" & getin!="1155" & getin!="1321" & getin!="1782"
+      getin!="1311" & getin!="1155" & getin!="1321" & getin!="1710" & getin!="1091"
       & getin!="1111" & getin!="1010" & getin!="1112" & getin!="4137"
       & getin!="1402")
 
@@ -644,10 +644,10 @@ else {
       a140.style.transform = 'scale(1.4)';
      };
 
-if (  getin!="1091" &  getin!="1710" &    
+if (      
       getin!="2402" &  getin!="2014"  & getin!="1700"
       & getin!="1708" & getin!="2010" & getin!="1540" & getin!="2021" & getin!="1005" & getin!="1103"  
-      & getin!="2017" &  getin!="3320" /*& getin!="2531*/ )
+      & getin!="2017" &  getin!="3320"  )
  
 { }
                            
@@ -661,9 +661,9 @@ else {
       a150.style.transform = 'scale(1.4)';
     };
 
-    if ( getin!="1091" &  getin!="1710" &    
+    if (       
       getin!="2402" &  getin!="2014"  &  getin!="1436" & getin!="1700"
-      & getin!="1708" & getin!="2010" & getin!="1540" & getin!="4155" )
+      & getin!="1708" & getin!="2010" & getin!="1540" & getin!="4155" &  getin!="3011"  )
  
     { }
                                
@@ -679,7 +679,7 @@ else {
 
 
 if (   getin!="1159" & getin!="1084" & getin!="1109" & getin!="2812" & getin!="1093"
-      & getin!="1538"
+      & getin!="1538" 
       )
  
 { }
@@ -713,7 +713,7 @@ else {
       b10.innerHTML = getin;
     };
 
-    if (getin!="1101" & getin!="1008")
+    if (getin!="111" )
  
     { }
                                        
@@ -729,7 +729,7 @@ else {
 
 // ESTANTERIA OFICINA 2 PRINCIPIO //
 
-if (getin!="1001"  & getin!="1105" & getin!="1004" & getin!="1086"
+if (getin!="1001"  & getin!="1105" & getin!="1086" & getin!="1008"
       & getin!="1104"
 )
  
@@ -745,7 +745,7 @@ else {
 
     if (getin!="1102" & getin!="2412" & getin!="1702"
       & getin!="2015" & getin!="1087"
-      & getin!="1313" & getin!="3086" & getin!="1008" & getin!="4011"
+      & getin!="1313" & getin!="3086" & getin!="4011" 
     )
  
     { }
@@ -763,7 +763,7 @@ else {
 
 // ESTANTERIA OFICINA 3 PRINCIPIO //
 
-        if ( getin!="1001" & getin!="1126" & getin!="4309")
+        if ( getin!="1001" & getin!="1126" & getin!="4309" )
  
         { }
                                            
