@@ -387,8 +387,8 @@ else {
      };*/
 
 if (  getin!="2228"  & getin!="1057"  & 
-      getin!="1683" & getin!="2005" & getin!="2514" 
-        & getin!="1326" & getin!="1320"  
+      getin!="1683" & getin!="2005" 
+        & getin!="1326" & getin!="1320"  & getin!="1441"
       )
  
 { }
@@ -456,7 +456,7 @@ else {
       a14.style.transition = '1.5s';
      };
 
-     if (getin!="2209" & getin!="2512" & getin!="1441")
+     if (getin!="2209" & getin!="2512" & getin!="2514"  )
  
      { }
                                 
