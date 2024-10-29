@@ -663,7 +663,7 @@ else {
 
     if (       
       getin!="2402" &  getin!="2014"  &  getin!="1436" & getin!="1700"
-      & getin!="1708" & getin!="2010" & getin!="1540" & getin!="4155" &  getin!="3011"  )
+      & getin!="1708" & getin!="2010" & getin!="1540" & getin!="4155" &  getin!="3011" & getin!="1313"  )
  
     { }
                                
@@ -745,7 +745,7 @@ else {
 
     if (getin!="1102" & getin!="2412" & getin!="1702"
       & getin!="1087"
-      & getin!="1313" & getin!="3086" & getin!="4011" 
+       & getin!="3086" & getin!="4011" 
       & getin!="3155" & getin!="3309" & getin!="3539" 
     )
  
