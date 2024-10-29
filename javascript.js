@@ -501,8 +501,8 @@ else {
 
 
 //// ESTANTERIA DERECHA BAJA PRINCIPIO //
-if (  getin!="2515" & getin!="1712" & getin!="camisola" & 
-      getin!="1311" & getin!="1155" & getin!="1321" & getin!="1710" & getin!="1091"
+if (  getin!="1102" & getin!="2515" & getin!="1712" & getin!="camisola" & 
+      getin!="1311" & getin!="1155" & getin!="1321" & getin!="1091"
       & getin!="1111" & getin!="1010" & getin!="1112" & getin!="4137"
       & getin!="1402")
 
@@ -743,8 +743,8 @@ else {
       c10.innerHTML = getin;
     };
 
-    if (getin!="1102" & getin!="2412" & getin!="1702"
-      & getin!="1087"
+    if (getin!="2412" & getin!="1702"
+      & getin!="1087"  & getin!="1710"
        & getin!="3086" & getin!="4011" 
       & getin!="3155" & getin!="3309" & getin!="3539" 
     )
