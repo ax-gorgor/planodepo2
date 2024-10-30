@@ -123,7 +123,7 @@ else {
      };
 
      if ( getin!="1550" & getin!="3014"
-      & getin!="1201"
+      & getin!="2401"
       & getin!="3850" & getin!="3431"
       & getin!="4087" 
       & getin!="2539"  & getin!="2411" 
@@ -171,7 +171,7 @@ else {
        
       };
 
-      if (getin!="1201" & getin!="3014" & getin!="3431" & getin!="1106" )  
+      if (getin!="2309" & getin!="3014" & getin!="3431" & getin!="1106" )  
  
       { }
       
@@ -320,7 +320,7 @@ else { alert('ESTANTERIA ARRIBA DE LA MESA');
 //// ESTANTERIA DERECHA PRINCIPIO //
 
 if (  getin!="1143"  & getin!="2051" &
-      getin!="2309"  & getin!="2577" & getin!="1544"
+        getin!="2577" & getin!="1544"
     )
  
 { }
@@ -341,7 +341,7 @@ else {
       
       };
 
-if (   getin!="1057" & getin!="2309"  
+if (   getin!="1057" & getin!="1550"  
         & getin!="3323" & getin!="2228" & getin!="1320"
       & getin!="1324"  & getin!="1548" & getin!="2332"
        & getin!="1431"  
@@ -437,7 +437,7 @@ else { alert('ESTANTERIA ARRIBA');
              a13.style.transition = '0.5s'
          };*/
 
-if ( getin!="1085" & getin!="2401" & getin!="2632" 
+if ( getin!="1085" & getin!="1201" & getin!="2632" 
 & getin!="4328"  & getin!="1462" & getin!="4323"
 & getin!="2223" & getin!="1328"  /*& getin!="1426" & getin!="2508"*/)
  
