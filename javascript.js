@@ -66,7 +66,7 @@ else {
 };
  
 
-if (getin!="1308" & getin!="2542" & getin!="2521" & getin!="2507"  )  
+if (getin!="2226" & getin!="2542" & getin!="2521" & getin!="2507"  )  
 
 { }
 
@@ -232,7 +232,7 @@ else { b1.style.marginLeft= '10px';
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
 if (getin!="3308" & getin!="2535" & getin!="2532" &   getin!="1135"  
-       & getin!="1675" & getin!="2537" )  
+       & getin!="1675" & getin!="2537" & getin!="1308" )  
 
 { }
 
@@ -387,7 +387,7 @@ else {
      };*/
 
 if (  getin!="2228"  & getin!="1057"  & 
-      getin!="1683" & getin!="2005" 
+      getin!="1683" & getin!="2005" & getin!="2560"
         & getin!="1326" & getin!="1320"  & getin!="1441"
       )
  
