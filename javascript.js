@@ -646,8 +646,7 @@ else {
       a140.style.transform = 'scale(1.4)';
      };
 
-if (      
-      getin!="2402" &  getin!="2014"  & getin!="1700"
+if (  getin!="2014"  & getin!="1700"
       & getin!="1708" & getin!="2010" & getin!="1540" & getin!="2021" & getin!="1005" & getin!="1103"  
       & getin!="2017" &  getin!="3320"  )
  
@@ -664,7 +663,7 @@ else {
     };
 
     if (       
-      getin!="2402" &  getin!="2014"  &  getin!="1436" & getin!="1700"
+        getin!="2014"  &  getin!="1436" & getin!="1700"
       & getin!="1708" & getin!="2010" & getin!="1540" & getin!="4155" &  getin!="3011" & getin!="1313"  )
  
     { }
@@ -681,7 +680,7 @@ else {
 
 
 if (   getin!="1159" & getin!="1084" & getin!="1109" & getin!="2812" & getin!="1093"
-      & getin!="1538" 
+      & getin!="1538" & getin!="2402" 
       )
  
 { }
