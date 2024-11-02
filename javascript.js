@@ -144,7 +144,23 @@ else {
       a2.style.transition = '0.5s';
       a2.style.marginLeft= '-12px';
        };
-      
+       
+      if ( getin!="2860" 
+     )  
+ 
+     { }
+     
+else { 
+      alert('ATENCION: Esta en medio de la mesa no se ve de afuera !!!'); 
+      a2.style.marginLeft= '-2px';
+      a2.style.color= 'black';
+      a2.style.fontSize= '24px';
+      a2.style.padding= '12px';
+      a2.innerHTML = getin;
+      a2.style.background = 'violet';
+      a2.style.transform = 'scale(3)';
+      a2.style.transition = '0.5s';
+      a2.style.marginLeft= '-12px'; } 
 
 // MESA PRINCIPAL DERECHA 2 FIN //
 
@@ -346,7 +362,7 @@ if (   getin!="1057" & getin!="1550"
       & getin!="1324"  & getin!="1548" & getin!="2332"
        & getin!="1431"  
         & getin!="1434"  & getin!="2230"  
-       & getin!="1433"  & getin!="2230" & getin!="2543" 
+       & getin!="1433"  & getin!="2230" & getin!="2543" & getin!="2525" 
        )
  
 { }
