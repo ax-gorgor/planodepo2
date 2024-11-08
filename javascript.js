@@ -82,7 +82,7 @@ else {  a1.style.marginLeft= '10px';
         
      };
 
-if (  getin!="314" & getin!="142" & getin!="143" & getin!="1069"  )  
+if (  getin!="314" & getin!="142" & getin!="143")  
  
 { }
 
@@ -541,7 +541,7 @@ else {
 
 if (  getin!="4077" & getin!="1671" & getin!="1077" & getin!="1156"
       & getin!="1152" & getin!="1150" & getin!="1676" & getin!="1402"
-      & getin!="camisola" & getin!="1400"/*& getin!="1004"
+      & getin!="camisola" & getin!="1400" & getin!="1068" & getin!="1069"/*
       & getin!="2043" & getin!="2407" & getin!="2531" & getin!="2568"*/
       )
 
