@@ -597,7 +597,7 @@ else {
       a100.style.transition = '1.2s'
       };
 
-if (  getin!="1074" & getin!="1786" & getin!="1421" & getin!="1322" & getin!="1315")
+if (  getin!="1074" & getin!="1786" & getin!="1421" & getin!="1322" & getin!="1315" & getin!="3421" )
  
 { }
             
@@ -762,7 +762,7 @@ else {
 
     if (getin!="2412" & getin!="1702"
       & getin!="1087"  & getin!="1710"
-       & getin!="3086" & getin!="4011" & getin!="3421" 
+       & getin!="3086" & getin!="4011" 
       & getin!="3155" & getin!="3309" & getin!="3539" 
     )
  
