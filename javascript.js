@@ -361,7 +361,7 @@ if (   getin!="1057" & getin!="1550"
         & getin!="3323" & getin!="2228" & getin!="1320"
       & getin!="1324"  & getin!="1548" & getin!="2332"
        & getin!="1431"  
-        & getin!="1434"  & getin!="2230"  
+        & getin!="1434"  & getin!="2230"  & getin!="2526" 
        & getin!="1433"  & getin!="2230" & getin!="2543" & getin!="2525" 
        )
  
