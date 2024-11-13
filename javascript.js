@@ -631,7 +631,9 @@ else {
       a120.style.transform = 'scale(1.6)';
      };
 
-if (  getin!="850" & getin!="2016" & getin!="2522" & getin!="1088" & getin!="3095" & getin!="1089")
+if (  getin!="850"  & getin!="2522" & getin!="1088" & getin!="3095" & getin!="1089")
+
+      
  
 { }
                  
@@ -646,6 +648,22 @@ else {
       a130.style.marginLeft= ' 72px';
       a130.style.transform = 'scale(1.4)';
      };
+
+     if (   getin!="2522" & getin!="2016");
+
+     else { 
+      /*a130.style.background= 'white';
+      a130.style.border= '1px solid red';
+       */
+      
+      a130.style.fontSize= '24px';
+      a130.style.color= 'black';
+      a130.innerHTML = "ESTA EN GISELLE";
+      a130.style.marginLeft= ' 72px';
+       
+     };
+
+
 
 if (  getin!="2021" & getin!="1005" & getin!="1103"  
       & getin!="2017" &  getin!="3320" & getin!="2531")
