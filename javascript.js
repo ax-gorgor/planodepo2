@@ -539,7 +539,7 @@ else {
       a17.style.transition = '1.5s';
 };
 
-if (  getin!="4077" & getin!="1671" & getin!="1077" & getin!="1156"
+if (  getin!="4077" & getin!="1671" & getin!="1077" 
       & getin!="1152" & getin!="1150" & getin!="1676" & getin!="1402"
       & getin!="camisola" & getin!="1400" & getin!="1068" & getin!="1069"
       & getin!="4137" & getin!="1500" & getin!="4057"
@@ -615,7 +615,7 @@ if (  getin!="1074" & getin!="1421" & getin!="1322" & getin!="1315" & getin!="34
      };
 
 
-if (    getin!="3090" & getin!="1788" & getin!="1013" & getin!="1490")
+if (    getin!="3090" & getin!="1788" & getin!="1013" & getin!="1490" & getin!="1156")
  
 { }
             
