@@ -517,10 +517,10 @@ else {
 
 
 //// ESTANTERIA DERECHA BAJA PRINCIPIO //
-if (  getin!="1102" & getin!="2515"   & 
+if (  getin!="1102" & 
       getin!="1311" & getin!="1155" & getin!="1321"  
       & getin!="1111" & getin!="1010" & getin!="1112" 
-      & getin!="2507"  & getin!="2612"
+      & getin!="2507"  & getin!="2612" & getin!="1105" 
       )
 
 { }
@@ -578,7 +578,7 @@ else { alert('Frente Oficina');
 
 if (   getin!="4050" 
       & getin!="3002" & getin!="4106" & getin!="1422" & getin!="1122" 
-      & getin!="1590" & getin!="1490" & getin!="1435" & getin!="2015"
+      & getin!="1590"  & getin!="1435" & getin!="2015" & getin!="1327"
         )
  
 { }
@@ -598,7 +598,7 @@ else {
       a100.style.transition = '1.2s'
       };
 
-if (  getin!="1074" & getin!="1786" & getin!="1421" & getin!="1322" & getin!="1315" & getin!="3421" )
+if (  getin!="1074" & getin!="1421" & getin!="1322" & getin!="1315" & getin!="3421" & getin!="2515"    )
  
 { }
             
@@ -615,8 +615,7 @@ if (  getin!="1074" & getin!="1786" & getin!="1421" & getin!="1322" & getin!="13
      };
 
 
-if (  getin!="1327" &  getin!="3090" &
-      getin!="2019" & getin!="1788" & getin!="1013")
+if (    getin!="3090" & getin!="1788" & getin!="1013" & getin!="1490")
  
 { }
             
@@ -715,7 +714,7 @@ else {
 
 
 if (   getin!="1159" & getin!="1084" & getin!="1109" & getin!="2812" & getin!="1093"
-      & getin!="1538" & getin!="2402" 
+      & getin!="1538" & getin!="2402" & getin!="1786" 
       )
  
 { }
@@ -724,13 +723,13 @@ else {
       /*a20.style.background= 'white';
       a20.style.border= '1px solid red';
       a20.innerHTML = getin;*/
-      a20.style.color= 'green';
+      a20.style.color= 'black';
       a20.style.fontSize= '24px';
       a20.innerHTML = getin;
-      a20.style.marginTop= '60px';
-      a20.style.marginLeft= '120px'; 
-      a20.style.transform = 'rotate(-360deg) scale(2)';
-      a20.style.transition = '1.6s'
+      a20.style.marginTop= '72px';
+      a20.style.marginLeft= '96px'; 
+      a20.style.transform = 'rotate(-360deg) scale(1.5)';
+      a20.style.transition = '0.6s'
     };
 
 
@@ -765,8 +764,9 @@ else {
 
 // ESTANTERIA OFICINA 2 PRINCIPIO //
 
-if (getin!="1001"  & getin!="1105" & getin!="1086" & getin!="1008"
-      & getin!="1104" & getin!="3111"
+if (getin!="1001"  & getin!="1086" & getin!="1008"
+      & getin!="1104" & getin!="3111" &
+      getin!="2019"
 )
  
 { }
