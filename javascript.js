@@ -542,7 +542,7 @@ else {
 if (  getin!="4077" & getin!="1671" & getin!="1077" 
       & getin!="1152" & getin!="1150" & getin!="1676" & getin!="1402"
       & getin!="camisola" & getin!="1400" & getin!="1068" & getin!="1069"
-      & getin!="4137" & getin!="1500" & getin!="4057"
+      & getin!="4137" & getin!="1500" & getin!="4057" & getin!="Camisola" & getin!="CAMISOLA"
       & getin!="2402" /* & getin!="2407" & getin!="2531" & getin!="2568"*/
       )
 
