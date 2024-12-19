@@ -359,7 +359,7 @@ else {
 
 if (   getin!="1057" & getin!="1550"  
         & getin!="3323" & getin!="2228" & getin!="1320"
-      & getin!="1324"  & getin!="1548" & getin!="2332"
+      & getin!="1324"  & getin!="1548" 
        & getin!="1431"  
         & getin!="1434"  & getin!="2230"  & getin!="2526" 
        & getin!="1433"  & getin!="2230" & getin!="2543" & getin!="2525" 
@@ -404,7 +404,7 @@ else {
 
 if (  getin!="2228"  & getin!="1057"  & 
       getin!="1683" & getin!="2005" & getin!="2560"
-        & getin!="1326" & getin!="1320"  & getin!="1441"
+        & getin!="1326" & getin!="1320"   
       )
  
 { }
@@ -424,6 +424,27 @@ else {
       a13.style.transform = 'rotate(360deg) scale(1.5)';
       a13.style.transition = '1.5s';
      };
+
+     if (  getin!="1441"
+      )
+      { }
+
+      else { 
+            /*a13.style.background= 'white';
+            a13.style.border= '1px solid red';
+            a13.innerHTML = getin;*/
+            a13.style.marginLeft= '-30px';
+            a13.style.color= 'black';
+            a13.style.fontSize= '16px';
+            a13.style.marginTop= '24px';
+            a13.style.marginLeft= '-48px';
+            a13.innerHTML = 'EN GISELLE';;
+            a13.style.transform = 'scale(2)';
+            a13.style.transition = '0.5s';
+            a13.style.transform = 'rotate(360deg) scale(1.2)';
+            a13.style.transition = '0.5s';
+           };
+
 
      if (getin!="2514" & 
       getin!="1151" & getin!="1683" & getin!="2005")  
@@ -615,7 +636,7 @@ if (  getin!="1074" & getin!="1421" & getin!="1322" & getin!="1315" & getin!="34
      };
 
 
-if (    getin!="3090" & getin!="1788" & getin!="1013" & getin!="1490" & getin!="1156")
+if (    getin!="3090" & getin!="1788" & getin!="1013" & getin!="1490" & getin!="1156" & getin!="2332")
  
 { }
             
