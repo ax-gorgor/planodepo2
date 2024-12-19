@@ -404,7 +404,7 @@ else {
 
 if (  getin!="2228"  & getin!="1057"  & 
       getin!="1683" & getin!="2005" & getin!="2560"
-        & getin!="1326" & getin!="1320"   
+        & getin!="1326" & getin!="1320" & getin!="850" & getin!="851" 
       )
  
 { }
@@ -651,7 +651,7 @@ else {
       a120.style.transform = 'scale(1.6)';
      };
 
-if (  getin!="850"  & getin!="2522" & getin!="1088" & getin!="3095" & getin!="1089")
+if (getin!="2522" & getin!="1088" & getin!="3095" & getin!="1089")
 
       
  
