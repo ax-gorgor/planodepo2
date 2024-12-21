@@ -212,7 +212,7 @@ else {
 
 // MESA PRINCIPAL IZQUIERDA 1 PRINCIPIO //
 
-if (getin!="2226" & getin!="2536" )  
+if ( getin!="2509" & getin!="2549" & getin!="2226"  )  
 
 { }
 
@@ -228,7 +228,7 @@ else { b1.style.marginLeft= '10px';
 
        
 
-        if (getin!="253" & getin!="257" & getin!="302")  
+        if ( getin!="253" & getin!="257" & getin!="302" )  
 
         { }
         
@@ -248,7 +248,7 @@ else { b1.style.marginLeft= '10px';
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
 if (getin!="3308" & getin!="2535" & getin!="2532" &   getin!="1135"  
-       & getin!="1675" & getin!="2537" & getin!="1308" )  
+       & getin!="1675" & getin!="2537" & getin!="1308" & getin!="2549"  )  
 
 { }
 
@@ -264,7 +264,7 @@ else { alert('ESTANTERIA ARRIBA DE LA MESA');
       b2.style.marginLeft= '-12px';
         }
 
-if ( getin!="1305" & getin!="2536" & getin!="2538" & getin!="2540" )  
+if ( getin!="1305" & getin!="2538" & getin!="2540" )  
 
 { }
 
@@ -293,7 +293,7 @@ else {b2.style.marginLeft= '10px';
              b2.style.transition = '1s'
               }  
 
-if ( getin!="2509" & getin!="2549" & getin!="1305")  
+if (  getin!="1305" & getin!="2536")  
 
 { }
                     
@@ -310,7 +310,7 @@ else { b3.style.marginLeft= '10px';
 
  
 if (getin!="1128" & getin!="2546" 
-      & getin!="2549"  & getin!="1203")  
+       & getin!="1203")  
 
 { }
       
