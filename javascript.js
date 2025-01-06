@@ -562,9 +562,9 @@ else {
 
 if (  getin!="4077" & getin!="1671" & getin!="1077" 
       & getin!="1152" & getin!="1150" & getin!="1676" & getin!="1402"
-      & getin!="camisola" & getin!="1400" & getin!="1068" & getin!="1069"
+      & getin!="camisola"  
       & getin!="4137" & getin!="1500" & getin!="4057" & getin!="Camisola" & getin!="CAMISOLA"
-      & getin!="2402"   & getin!="1544" /* & getin!="2531" & getin!="2568"*/
+          & getin!="1544"  
       )
 
 { }
@@ -619,7 +619,7 @@ else {
       a100.style.transition = '1.2s'
       };
 
-if (  getin!="1074" & getin!="1421" & getin!="1322" & getin!="1315" & getin!="3421" & getin!="2515"    )
+if (  getin!="1074" & getin!="1421" & getin!="1322" & getin!="1315" & getin!="3421" & getin!="2515" & getin!="2402"    )
  
 { }
             
@@ -669,7 +669,7 @@ else {
       a130.style.transform = 'scale(1.4)';
      };
 
-     if (   getin!="2522" & getin!="2016");
+     if (   getin!="2522" & getin!="2016" & getin!="1068" & getin!="1069");
 
      else { 
       /*a130.style.background= 'white';
@@ -735,7 +735,7 @@ else {
 
 
 if (   getin!="1159" & getin!="1084" & getin!="1109" & getin!="2812" & getin!="1093"
-      & getin!="1538" & getin!="2402" & getin!="1786" 
+      & getin!="1538"  & getin!="1786" 
       )
  
 { }
