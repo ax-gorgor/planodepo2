@@ -255,7 +255,7 @@ else {
 
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
-if (   getin!="2535" & getin!="9002" 
+if (   getin!="2535" & getin!="9002" & getin!="1683"
        & getin!="1701" & getin!="9126" & getin!="3320" )  
 
 { }
@@ -526,7 +526,7 @@ else {
      
 
 if (    getin!="1201" & getin!="1323"
-        & getin!="2560" & getin!="1427" & getin!="2508" & getin!="1683"
+        & getin!="2560" & getin!="1427" & getin!="2508" 
         &  getin!="2507" & getin!="1304" & getin!="1310" & getin!="1129" 
         & getin!="1137" & getin!="1498" & getin!="1865"
         & getin!="3209"   
