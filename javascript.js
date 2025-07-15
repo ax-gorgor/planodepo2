@@ -243,6 +243,7 @@ else {
         else { alert('ESTANTERIA ARRIBA DE LA MESA'); 
                b1.style.marginLeft= '10px';
                b1.style.color= 'white';
+               b1.style.padding= '12px';
                b1.style.fontSize= '24px';
                b1.innerHTML = getin;
                b1.style.background = 'black';
@@ -529,7 +530,7 @@ if (    getin!="1201" & getin!="1323"
         & getin!="2560" & getin!="1427" & getin!="2508" 
         &  getin!="2507" & getin!="1304" & getin!="1310" & getin!="1129" 
         & getin!="1137" & getin!="1498" & getin!="1865"
-        & getin!="3209"   
+        & getin!="3209" & getin!="3435" & getin!="2603" & getin!="2550" 
       )
  
          { }
