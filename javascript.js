@@ -417,7 +417,7 @@ else {
 
 if (  getin!="2228"  & getin!="1550"  &  getin!="1426" &  getin!="1450" & getin!="2228" & 
       getin!="1434" & getin!="4221" & getin!="1441" & getin!="2700" & getin!="2600" 
-        & getin!="1004" & getin!="850" & getin!="851" & getin!="1328" 
+        & getin!="1004" & getin!="850" & getin!="851" & getin!="1328" & getin!="2007" 
       )
  
 { }
