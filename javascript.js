@@ -191,7 +191,7 @@ else {
        
       };
 
-      if (getin!="2309" & getin!="1135" & getin!="2401" & getin!="1101" & getin!="1106")  
+      if (getin!="2309" & getin!="1135" & getin!="2401" & getin!="1101")  
  
       { }
       
@@ -676,7 +676,7 @@ else {
 if (  getin!="1322" & getin!="2332" & getin!="1500" & getin!="1321"
         & getin!="3850" & getin!="3090" & getin!="3421"
         & getin!="3811" & getin!="4050"  
-        & getin!="2515")
+        & getin!="2515" & getin!="1106")
 
       
  
