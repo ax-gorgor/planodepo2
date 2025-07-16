@@ -128,7 +128,7 @@ else {
         a2.style.transition = '0.5s';
      };
 
-     if ( getin!="1314" & getin!="1173"
+     if ( getin!="1314"  
       & getin!="1133"
       & getin!="1340" & getin!="1550"
       
@@ -639,7 +639,7 @@ else {
 
 if (  getin!="3860" & getin!="1421" & getin!="2402" & getin!="1069"
        & getin!="1315" & getin!="1313" & getin!="1788" & getin!="1435"
-       & getin!="2017" & getin!="1156" & getin!="1438"  
+       & getin!="2017" & getin!="1156" & getin!="1438" & getin!="1173"  
       )
  
 { }
