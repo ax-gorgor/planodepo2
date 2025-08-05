@@ -256,7 +256,7 @@ else {
 
 // MESA PRINCIPAL IZQUIERDA 2 PRINCIPIO //
 
-if (   getin!="2535" & getin!="9002" & getin!="1683"
+if (   getin!="2535" & getin!="9002" & getin!="1683" & getin!="1055"
        & getin!="1701" & getin!="9126" & getin!="3320" )  
 
 { }
