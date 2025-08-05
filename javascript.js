@@ -129,8 +129,8 @@ else {
      };
 
      if ( getin!="1314"  
-      & getin!="1133"
-      & getin!="1340" & getin!="1550"
+      & getin!="1133" & getin!="2404"
+      & getin!="1340" & getin!="1550" & getin!="2603"
       
      )  
  
@@ -191,7 +191,9 @@ else {
        
       };
 
-      if (getin!="2309" & getin!="1135" & getin!="2401" )  
+      if (getin!="2309" & getin!="1135" & getin!="2401" & getin!="2544"
+            & getin!="1438" & getin!="1018"
+      )  
  
       { }
       
@@ -347,9 +349,8 @@ else { alert('ESTANTERIA ARRIBA DE LA MESA');
 
 //// ESTANTERIA DERECHA PRINCIPIO //
 
-if (  getin!="1143"  & getin!="2230" &
-       getin!="3851" & getin!="1057" &
-        getin!="4077" & getin!="2577"
+if (  getin!="2230"  & getin!="1057"  
+       & getin!="2577" & getin!="2519"
     )
  
 { }
@@ -375,7 +376,7 @@ if (   getin!="1057" & getin!="1320"
       & getin!="1324"  & getin!="4019"  
        & getin!="1431"  
         & getin!="1434"  & getin!="2230"  & getin!="2526" 
-       & getin!="1433"   &   getin!="2525" 
+       & getin!="1433"   &   getin!="2525" &   getin!="2812"
        )
  
 { }
@@ -530,7 +531,7 @@ if (    getin!="1201" & getin!="1323"
         & getin!="2560" & getin!="1427" & getin!="2508" 
         &  getin!="2507" & getin!="1304" & getin!="1310" & getin!="1129" 
         & getin!="1137" & getin!="1498" & getin!="1865"
-        & getin!="3209" & getin!="3435" & getin!="2603" & getin!="2550" 
+        & getin!="3209" & getin!="3435" & getin!="2550" 
       )
  
          { }
@@ -639,7 +640,7 @@ else {
 
 if (  getin!="3860" & getin!="1421" & getin!="2402" & getin!="1069"
        & getin!="1315" & getin!="1313" & getin!="1788" & getin!="1435"
-       & getin!="2017" & getin!="1156" & getin!="1438" & getin!="1173"  
+       & getin!="2017" & getin!="1156" & getin!="1173" & getin!="2014" 
       )
  
 { }
@@ -748,7 +749,7 @@ else {
     if (   getin!="1700" &     
         getin!="2615"  &  getin!="3002" & getin!="1436" & getin!="2011" 
       & getin!="3011" & getin!="4155" & getin!="2010" & getin!="1708" &  getin!="1050" 
-       & getin!="1072" & getin!="2014" & getin!="1702" & getin!="1102" &  getin!="1442"   )
+       & getin!="1072" & getin!="1702" & getin!="1102" &  getin!="1442"   )
  
     { }
                                
@@ -764,8 +765,8 @@ else {
 
 
 if (   getin!="1159" & getin!="1084" & getin!="1109" & getin!="1077"  
-      & getin!="1710"  & getin!="1786" & getin!="2812" 
-      )
+      & getin!="1710"  & getin!="1786" & getin!="3851" & getin!="4077"
+      & getin!="1143" )
  
 { }
                                    
@@ -831,7 +832,7 @@ else {
       c10.innerHTML = getin;
     };
 
-    if (getin!="2412"  
+    if (getin!="2412"  & getin!="1068" 
          
        & getin!="3155" & getin!="4011" 
       & getin!="3386" & getin!="3309" & getin!="1798" 
