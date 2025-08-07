@@ -638,7 +638,7 @@ else {
       a100.style.transition = '1.2s'
       };
 
-if (  getin!="3860" & getin!="1421" & getin!="2402" & getin!="1069"
+if (  getin!="3860" & getin!="1421" & getin!="2402" & getin!="1069" & getin!="1077"
        & getin!="1315" & getin!="1313" & getin!="1788" & getin!="1435"
        & getin!="2017" & getin!="1156" & getin!="1173" & getin!="2014" 
       )
@@ -764,7 +764,7 @@ else {
 // ESTANTERIA IZQUIERDA FIN //
 
 
-if (   getin!="1159" & getin!="1084" & getin!="1109" & getin!="1077"  
+if (   getin!="1159" & getin!="1084" & getin!="1109"   
       & getin!="1710"  & getin!="1786" & getin!="3851" & getin!="4077"
       & getin!="1143" )
  
