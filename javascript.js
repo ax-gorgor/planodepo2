@@ -817,7 +817,7 @@ else {
 // ESTANTERIA OFICINA 2 PRINCIPIO //
 
 if (getin!="1001"  & getin!="2015" & getin!="2019"
-      & getin!="3111" & getin!="1008" &
+      & getin!="3111" & getin!="2516" &
       getin!="1104" &
       getin!="4085" &
       getin!="1086"
