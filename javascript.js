@@ -84,7 +84,7 @@ else {  a1.style.marginLeft= '10px';
 
 if (  getin!="2411" & getin!="3057" & getin!="4087"
     &  getin!="1550" & getin!="3431" & getin!="1332"
-    &  getin!="2401"  
+    &  getin!="2401"  &  getin!="4683"
 )  
  
 { }
@@ -715,7 +715,7 @@ else {
 if (  getin!="1490" & getin!="3095" & getin!="1088"  
        &  getin!="1128" & getin!="2531" &
        getin!="1105" & getin!="1103" & getin!="3809"  
-       &  getin!="1005"  
+       &  getin!="1005"  &  getin!="2604"  
       )
  
 { }
